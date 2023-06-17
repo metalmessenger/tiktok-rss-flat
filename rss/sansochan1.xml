@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@sansochan1</id>
+  <title>sansochan1 TikTok</title>
+  <updated>2023-06-14T12:20:15+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://metalmessenger.github.io/tiktok-rss-flat/rss/sansochan1.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7243717161884110082</id>
+    <title>寂しかった？</title>
+    <updated>2023-06-12T08:42:14+00:00</updated>
+    <content>寂しかった？</content>
+    <link href="https://tiktok.com/@sansochan1/video/7243717161884110082" rel="alternate"/>
+    <published>2023-06-12T08:42:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7243781432168959234</id>
+    <title>ウィッグじゃなくて地毛だよ❕</title>
+    <updated>2023-06-12T12:51:37+00:00</updated>
+    <content>ウィッグじゃなくて地毛だよ❕</content>
+    <link href="https://tiktok.com/@sansochan1/video/7243781432168959234" rel="alternate"/>
+    <published>2023-06-12T12:51:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7244512016210070786</id>
+    <title>可愛いって沢山言って！！</title>
+    <updated>2023-06-14T12:06:40+00:00</updated>
+    <content>可愛いって沢山言って！！</content>
+    <link href="https://tiktok.com/@sansochan1/video/7244512016210070786" rel="alternate"/>
+    <published>2023-06-14T12:06:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7244514421182057729</id>
+    <title>No Title</title>
+    <updated>2023-06-14T12:15:59+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7244514421182057729" rel="alternate"/>
+    <published>2023-06-14T12:15:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7244515514335137025</id>
+    <title>No Title</title>
+    <updated>2023-06-14T12:20:15+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7244515514335137025" rel="alternate"/>
+    <published>2023-06-14T12:20:15+00:00</published>
+  </entry>
+</feed>

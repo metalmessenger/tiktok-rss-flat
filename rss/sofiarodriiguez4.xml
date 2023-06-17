@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@sofiarodriiguez4</id>
+  <title>sofiarodriiguez4 TikTok</title>
+  <updated>2023-06-17T05:13:54+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://metalmessenger.github.io/tiktok-rss-flat/rss/sofiarodriiguez4.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from sofiarodriiguez4</subtitle>
+  <entry>
+    <id>https://tiktok.com/@sofiarodriiguez4/video/7245099220741541126</id>
+    <title>No Title</title>
+    <updated>2023-06-16T02:05:18+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sofiarodriiguez4/video/7245099220741541126" rel="alternate"/>
+    <published>2023-06-16T02:05:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sofiarodriiguez4/video/7245148928067308805</id>
+    <title>✨</title>
+    <updated>2023-06-16T05:18:13+00:00</updated>
+    <content>✨</content>
+    <link href="https://tiktok.com/@sofiarodriiguez4/video/7245148928067308805" rel="alternate"/>
+    <published>2023-06-16T05:18:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sofiarodriiguez4/video/7245410725764566278</id>
+    <title>#foryou #fy #viral #fyp #fypシ #parati </title>
+    <updated>2023-06-16T22:14:08+00:00</updated>
+    <content>#foryou #fy #viral #fyp #fypシ #parati </content>
+    <link href="https://tiktok.com/@sofiarodriiguez4/video/7245410725764566278" rel="alternate"/>
+    <published>2023-06-16T22:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sofiarodriiguez4/video/7245471284585336069</id>
+    <title>#foryou #fy #viral #fyp ##fypシ #parati  </title>
+    <updated>2023-06-17T02:09:06+00:00</updated>
+    <content>#foryou #fy #viral #fyp ##fypシ #parati  </content>
+    <link href="https://tiktok.com/@sofiarodriiguez4/video/7245471284585336069" rel="alternate"/>
+    <published>2023-06-17T02:09:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sofiarodriiguez4/video/7245518906000002310</id>
+    <title>No Title</title>
+    <updated>2023-06-17T05:13:54+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sofiarodriiguez4/video/7245518906000002310" rel="alternate"/>
+    <published>2023-06-17T05:13:54+00:00</published>
+  </entry>
+</feed>
