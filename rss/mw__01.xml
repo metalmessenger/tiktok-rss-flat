@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-06-17T10:51:14+00:00</updated>
+  <updated>2023-06-18T12:29:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7241943821213388034</id>
-    <title>カップルでゼンリー交換するの、絶対反対派😿😿😿　#01 #fyp #おすすめ </title>
-    <updated>2023-06-07T14:00:48+00:00</updated>
-    <content>カップルでゼンリー交換するの、絶対反対派😿😿😿　#01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7241943821213388034" rel="alternate"/>
-    <published>2023-06-07T14:00:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7242639581709864194</id>
     <title>やまあいカップルのやまとくん、理想の彼氏すぎるって❗️❗️#01 #fyp #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>最短２日で別れるぐらい、恋愛続かない女です🥹🥹#01 #fyp #おすすめ #ラメアイメイク </content>
     <link href="https://tiktok.com/@mw__01/video/7245605823429250305" rel="alternate"/>
     <published>2023-06-17T10:51:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7246002197136297217</id>
+    <title>『髪ボサボサ＝事後❓』って意味わからんすぎwwwww#01 #fyp #おすすめ #ラメアイメイク </title>
+    <updated>2023-06-18T12:29:22+00:00</updated>
+    <content>『髪ボサボサ＝事後❓』って意味わからんすぎwwwww#01 #fyp #おすすめ #ラメアイメイク </content>
+    <link href="https://tiktok.com/@mw__01/video/7246002197136297217" rel="alternate"/>
+    <published>2023-06-18T12:29:22+00:00</published>
   </entry>
 </feed>
