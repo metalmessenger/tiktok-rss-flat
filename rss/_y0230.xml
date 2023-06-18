@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@_y0230</id>
+  <title>_y0230 TikTok</title>
+  <updated>2023-05-31T11:04:02+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://metalmessenger.github.io/tiktok-rss-flat/rss/_y0230.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from _y0230</subtitle>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7234465676520475905</id>
+    <title>🤪できない#fyp #fypシ #おすすめ #オススメ乗ってたら教えて </title>
+    <updated>2023-05-18T10:21:45+00:00</updated>
+    <content>🤪できない#fyp #fypシ #おすすめ #オススメ乗ってたら教えて </content>
+    <link href="https://tiktok.com/@_y0230/video/7234465676520475905" rel="alternate"/>
+    <published>2023-05-18T10:21:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7235592518077877506</id>
+    <title>日曜日なにした？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて </title>
+    <updated>2023-05-21T11:14:27+00:00</updated>
+    <content>日曜日なにした？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて </content>
+    <link href="https://tiktok.com/@_y0230/video/7235592518077877506" rel="alternate"/>
+    <published>2023-05-21T11:14:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7236380398500973825</id>
+    <title>一目惚れした？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて #学生</title>
+    <updated>2023-05-23T14:11:50+00:00</updated>
+    <content>一目惚れした？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて #学生</content>
+    <link href="https://tiktok.com/@_y0230/video/7236380398500973825" rel="alternate"/>
+    <published>2023-05-23T14:11:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7236728972736761089</id>
+    <title>これ流行ってたよね？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて #ダンス</title>
+    <updated>2023-05-24T12:44:30+00:00</updated>
+    <content>これ流行ってたよね？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて #ダンス</content>
+    <link href="https://tiktok.com/@_y0230/video/7236728972736761089" rel="alternate"/>
+    <published>2023-05-24T12:44:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7239300680467385602</id>
+    <title>一緒にバスケしよ🏀#fyp #fypシ #おすすめ #学生 </title>
+    <updated>2023-05-31T11:04:02+00:00</updated>
+    <content>一緒にバスケしよ🏀#fyp #fypシ #おすすめ #学生 </content>
+    <link href="https://tiktok.com/@_y0230/video/7239300680467385602" rel="alternate"/>
+    <published>2023-05-31T11:04:02+00:00</published>
+  </entry>
+</feed>

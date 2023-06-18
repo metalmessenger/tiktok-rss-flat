@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@karinaa_08_17</id>
+  <title>karinaa_08_17 TikTok</title>
+  <updated>2023-05-06T06:42:27+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://metalmessenger.github.io/tiktok-rss-flat/rss/karinaa_08_17.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from karinaa_08_17</subtitle>
+  <entry>
+    <id>https://tiktok.com/@karinaa_08_17/video/7218106557165227265</id>
+    <title>加工外れちゃった的な笑 #08 #インスタおいで </title>
+    <updated>2023-04-04T08:20:01+00:00</updated>
+    <content>加工外れちゃった的な笑 #08 #インスタおいで </content>
+    <link href="https://tiktok.com/@karinaa_08_17/video/7218106557165227265" rel="alternate"/>
+    <published>2023-04-04T08:20:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@karinaa_08_17/video/7219232847150779650</id>
+    <title>他のかりなの人についてのコメント来る😐😐  #08 #インスタおいで </title>
+    <updated>2023-04-07T09:10:37+00:00</updated>
+    <content>他のかりなの人についてのコメント来る😐😐  #08 #インスタおいで </content>
+    <link href="https://tiktok.com/@karinaa_08_17/video/7219232847150779650" rel="alternate"/>
+    <published>2023-04-07T09:10:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@karinaa_08_17/video/7229563680428510465</id>
+    <title>お久しぶりです。前垢の投稿です！ #08 #この時は中3 #インスタおいで </title>
+    <updated>2023-05-05T05:19:31+00:00</updated>
+    <content>お久しぶりです。前垢の投稿です！ #08 #この時は中3 #インスタおいで </content>
+    <link href="https://tiktok.com/@karinaa_08_17/video/7229563680428510465" rel="alternate"/>
+    <published>2023-05-05T05:19:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@karinaa_08_17/video/7229945601998277890</id>
+    <title>違うversion！昨日の動画とどっちがいい？ #08 #この時は中3 #インスタおいで </title>
+    <updated>2023-05-06T06:01:34+00:00</updated>
+    <content>違うversion！昨日の動画とどっちがいい？ #08 #この時は中3 #インスタおいで </content>
+    <link href="https://tiktok.com/@karinaa_08_17/video/7229945601998277890" rel="alternate"/>
+    <published>2023-05-06T06:01:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@karinaa_08_17/video/7229956144121400577</id>
+    <title>前垢の動画Part2！自分でライブすると年齢足りなくてBANされるから人のライブに出る事にしました！ #08 #この時中3 #インスタおいで </title>
+    <updated>2023-05-06T06:42:27+00:00</updated>
+    <content>前垢の動画Part2！自分でライブすると年齢足りなくてBANされるから人のライブに出る事にしました！ #08 #この時中3 #インスタおいで </content>
+    <link href="https://tiktok.com/@karinaa_08_17/video/7229956144121400577" rel="alternate"/>
+    <published>2023-05-06T06:42:27+00:00</published>
+  </entry>
+</feed>
