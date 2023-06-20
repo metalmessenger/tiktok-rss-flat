@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sofiarodriiguez4</id>
   <title>sofiarodriiguez4 TikTok</title>
-  <updated>2023-06-20T02:07:53+00:00</updated>
+  <updated>2023-06-20T14:05:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sofiarodriiguez4</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sofiarodriiguez4/video/7246151939837152517</id>
-    <title>#foryou #fy #viral </title>
-    <updated>2023-06-18T22:10:26+00:00</updated>
-    <content>#foryou #fy #viral </content>
-    <link href="https://tiktok.com/@sofiarodriiguez4/video/7246151939837152517" rel="alternate"/>
-    <published>2023-06-18T22:10:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sofiarodriiguez4/video/7246211720614808838</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>#foryou #fy #viral #fyp #fypシ #parati </content>
     <link href="https://tiktok.com/@sofiarodriiguez4/video/7246584221979135238" rel="alternate"/>
     <published>2023-06-20T02:07:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sofiarodriiguez4/video/7246769175266462981</id>
+    <title>#foryou #fy #viral #fyp #fypシ #fypシ </title>
+    <updated>2023-06-20T14:05:35+00:00</updated>
+    <content>#foryou #fy #viral #fyp #fypシ #fypシ </content>
+    <link href="https://tiktok.com/@sofiarodriiguez4/video/7246769175266462981" rel="alternate"/>
+    <published>2023-06-20T14:05:35+00:00</published>
   </entry>
 </feed>
