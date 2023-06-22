@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@macca.bikini</id>
   <title>macca.bikini TikTok</title>
-  <updated>2023-06-20T02:35:42+00:00</updated>
+  <updated>2023-06-22T02:59:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from macca.bikini</subtitle>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7245562401905593601</id>
-    <title>#花火 #まっか</title>
-    <updated>2023-06-17T08:02:45+00:00</updated>
-    <content>#花火 #まっか</content>
-    <link href="https://tiktok.com/@macca.bikini/video/7245562401905593601" rel="alternate"/>
-    <published>2023-06-17T08:02:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7245958356869926146</id>
-    <title>@Haru🐵🍬 @まっか🧚‍♀️macca </title>
-    <updated>2023-06-18T09:39:14+00:00</updated>
-    <content>@Haru🐵🍬 @まっか🧚‍♀️macca </content>
-    <link href="https://tiktok.com/@macca.bikini/video/7245958356869926146" rel="alternate"/>
-    <published>2023-06-18T09:39:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@macca.bikini/video/7246591137035701506</id>
     <title>@Haru🐵🍬 @まっか🧚‍♀️macca </title>
@@ -51,5 +35,21 @@
     <content>@Haru🐵🍬 @まっか🧚‍♀️macca </content>
     <link href="https://tiktok.com/@macca.bikini/video/7246591378501668097" rel="alternate"/>
     <published>2023-06-20T02:35:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7247338992444738818</id>
+    <title>@まっか🧚‍♀️macca #かとまゆ #ビキニ</title>
+    <updated>2023-06-22T02:56:51+00:00</updated>
+    <content>@まっか🧚‍♀️macca #かとまゆ #ビキニ</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7247338992444738818" rel="alternate"/>
+    <published>2023-06-22T02:56:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7247339722572451074</id>
+    <title>@まっか🧚‍♀️macca #かとまゆ #まっか #bikini #ビキニ</title>
+    <updated>2023-06-22T02:59:43+00:00</updated>
+    <content>@まっか🧚‍♀️macca #かとまゆ #まっか #bikini #ビキニ</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7247339722572451074" rel="alternate"/>
+    <published>2023-06-22T02:59:43+00:00</published>
   </entry>
 </feed>
