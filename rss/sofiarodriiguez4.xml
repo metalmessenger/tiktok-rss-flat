@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sofiarodriiguez4</id>
   <title>sofiarodriiguez4 TikTok</title>
-  <updated>2023-06-23T14:40:59+00:00</updated>
+  <updated>2023-06-23T22:07:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -27,5 +27,13 @@
     <content>#foryou #fy #viral #fyp #fypシ #parati </content>
     <link href="https://tiktok.com/@sofiarodriiguez4/video/7247891558651923718" rel="alternate"/>
     <published>2023-06-23T14:40:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sofiarodriiguez4/video/7248006552450256134</id>
+    <title>#foryou #fy #viral #fyp #fypシ </title>
+    <updated>2023-06-23T22:07:14+00:00</updated>
+    <content>#foryou #fy #viral #fyp #fypシ </content>
+    <link href="https://tiktok.com/@sofiarodriiguez4/video/7248006552450256134" rel="alternate"/>
+    <published>2023-06-23T22:07:14+00:00</published>
   </entry>
 </feed>
