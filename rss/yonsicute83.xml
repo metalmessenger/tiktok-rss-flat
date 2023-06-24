@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yonsicute83</id>
   <title>yonsicute83 TikTok</title>
-  <updated>2023-06-23T02:25:03+00:00</updated>
+  <updated>2023-06-24T02:32:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yonsicute83</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yonsicute83/video/7244470937494605057</id>
-    <title>춤은 춤일뿐 #미시룩 #美女 </title>
-    <updated>2023-06-14T09:27:19+00:00</updated>
-    <content>춤은 춤일뿐 #미시룩 #美女 </content>
-    <link href="https://tiktok.com/@yonsicute83/video/7244470937494605057" rel="alternate"/>
-    <published>2023-06-14T09:27:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yonsicute83/video/7245115896086285570</id>
     <title>babe #미시룩정석 #미시룩 #룩북 </title>
@@ -51,5 +43,13 @@
     <content>비키니 예뻐? #비키니 #bikini #서피 </content>
     <link href="https://tiktok.com/@yonsicute83/video/7247701865872362754" rel="alternate"/>
     <published>2023-06-23T02:25:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yonsicute83/video/7248074835824217346</id>
+    <title>뒷북 달랑무 #달랑무 #달랑무챌린지 </title>
+    <updated>2023-06-24T02:32:16+00:00</updated>
+    <content>뒷북 달랑무 #달랑무 #달랑무챌린지 </content>
+    <link href="https://tiktok.com/@yonsicute83/video/7248074835824217346" rel="alternate"/>
+    <published>2023-06-24T02:32:16+00:00</published>
   </entry>
 </feed>
