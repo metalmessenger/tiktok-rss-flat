@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@yonsicute83</id>
   <title>yonsicute83 TikTok</title>
-  <updated>2023-06-24T07:55:25+00:00</updated>
+  <updated>2023-06-24T13:31:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from yonsicute83</subtitle>
-  <entry>
-    <id>https://tiktok.com/@yonsicute83/video/7243232051229494530</id>
-    <title>💜 #미시룩정석 #미시룩 #dj </title>
-    <updated>2023-06-11T01:19:54+00:00</updated>
-    <content>💜 #미시룩정석 #미시룩 #dj </content>
-    <link href="https://tiktok.com/@yonsicute83/video/7243232051229494530" rel="alternate"/>
-    <published>2023-06-11T01:19:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@yonsicute83/video/7244151623038143746</id>
     <title>여기도 지진났어!!! #미시룩정석 #미시룩 #美女 </title>
@@ -51,5 +43,13 @@
     <content>본계가..🧚저세상..갔.. #미시룩 #미시룩정석 #美女 </content>
     <link href="https://tiktok.com/@yonsicute83/video/7248158111352081665" rel="alternate"/>
     <published>2023-06-24T07:55:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@yonsicute83/video/7248244613893410050</id>
+    <title>🤍 #비키니 #bikini #比基尼 </title>
+    <updated>2023-06-24T13:31:06+00:00</updated>
+    <content>🤍 #비키니 #bikini #比基尼 </content>
+    <link href="https://tiktok.com/@yonsicute83/video/7248244613893410050" rel="alternate"/>
+    <published>2023-06-24T13:31:06+00:00</published>
   </entry>
 </feed>
