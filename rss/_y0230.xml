@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_y0230</id>
   <title>_y0230 TikTok</title>
-  <updated>2023-06-20T11:39:08+00:00</updated>
+  <updated>2023-06-27T12:40:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _y0230</subtitle>
-  <entry>
-    <id>https://tiktok.com/@_y0230/video/7235592518077877506</id>
-    <title>日曜日なにした？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて </title>
-    <updated>2023-05-21T11:14:27+00:00</updated>
-    <content>日曜日なにした？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて </content>
-    <link href="https://tiktok.com/@_y0230/video/7235592518077877506" rel="alternate"/>
-    <published>2023-05-21T11:14:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@_y0230/video/7236380398500973825</id>
     <title>一目惚れした？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて #学生</title>
@@ -51,5 +43,13 @@
     <content>懐かしの🫢#おすすめ #fypシ #fyp #オススメ乗ってたら教えて </content>
     <link href="https://tiktok.com/@_y0230/video/7246731424840158465" rel="alternate"/>
     <published>2023-06-20T11:39:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7249344795565427970</id>
+    <title>ちゅ！可愛くてごめん！#fypシ #fyp #おすすめ #オススメ乗ってたら教えて #変身動画 </title>
+    <updated>2023-06-27T12:40:18+00:00</updated>
+    <content>ちゅ！可愛くてごめん！#fypシ #fyp #おすすめ #オススメ乗ってたら教えて #変身動画 </content>
+    <link href="https://tiktok.com/@_y0230/video/7249344795565427970" rel="alternate"/>
+    <published>2023-06-27T12:40:18+00:00</published>
   </entry>
 </feed>
