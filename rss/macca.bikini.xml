@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@macca.bikini</id>
   <title>macca.bikini TikTok</title>
-  <updated>2023-06-28T04:13:18+00:00</updated>
+  <updated>2023-06-28T22:51:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from macca.bikini</subtitle>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7247338992444738818</id>
-    <title>@まっか🧚‍♀️macca #かとまゆ #ビキニ</title>
-    <updated>2023-06-22T02:56:51+00:00</updated>
-    <content>@まっか🧚‍♀️macca #かとまゆ #ビキニ</content>
-    <link href="https://tiktok.com/@macca.bikini/video/7247338992444738818" rel="alternate"/>
-    <published>2023-06-22T02:56:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7247339722572451074</id>
-    <title>@まっか🧚‍♀️macca #かとまゆ #まっか #bikini #ビキニ</title>
-    <updated>2023-06-22T02:59:43+00:00</updated>
-    <content>@まっか🧚‍♀️macca #かとまゆ #まっか #bikini #ビキニ</content>
-    <link href="https://tiktok.com/@macca.bikini/video/7247339722572451074" rel="alternate"/>
-    <published>2023-06-22T02:59:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@macca.bikini/video/7249585115976846594</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>かとまゆに舌教えてもらいました</content>
     <link href="https://tiktok.com/@macca.bikini/video/7249585212202503426" rel="alternate"/>
     <published>2023-06-28T04:13:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7249873278414638337</id>
+    <title>踊れてない🥹🤲</title>
+    <updated>2023-06-28T22:51:16+00:00</updated>
+    <content>踊れてない🥹🤲</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7249873278414638337" rel="alternate"/>
+    <published>2023-06-28T22:51:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7249873356957224193</id>
+    <title>2回目挑戦したけど、なんか惜しい</title>
+    <updated>2023-06-28T22:51:36+00:00</updated>
+    <content>2回目挑戦したけど、なんか惜しい</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7249873356957224193" rel="alternate"/>
+    <published>2023-06-28T22:51:36+00:00</published>
   </entry>
 </feed>
