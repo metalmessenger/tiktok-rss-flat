@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-06-26T13:09:45+00:00</updated>
+  <updated>2023-06-29T11:43:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -45,11 +45,11 @@
     <published>2023-06-26T08:56:20+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sansochan1/video/7248981285765483777</id>
-    <title>波作るの難しい</title>
-    <updated>2023-06-26T13:09:45+00:00</updated>
-    <content>波作るの難しい</content>
-    <link href="https://tiktok.com/@sansochan1/video/7248981285765483777" rel="alternate"/>
-    <published>2023-06-26T13:09:45+00:00</published>
+    <id>https://tiktok.com/@sansochan1/video/7250071749872717058</id>
+    <title>No Title</title>
+    <updated>2023-06-29T11:43:00+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7250071749872717058" rel="alternate"/>
+    <published>2023-06-29T11:43:00+00:00</published>
   </entry>
 </feed>
