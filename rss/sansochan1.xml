@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-06-28T12:13:45+00:00</updated>
+  <updated>2023-06-26T13:09:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7244515514335137025</id>
+    <title>No Title</title>
+    <updated>2023-06-14T12:20:15+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7244515514335137025" rel="alternate"/>
+    <published>2023-06-14T12:20:15+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7246388575330110722</id>
     <title>起きたら髪の毛こうなってた</title>
@@ -43,13 +51,5 @@
     <content>波作るの難しい</content>
     <link href="https://tiktok.com/@sansochan1/video/7248981285765483777" rel="alternate"/>
     <published>2023-06-26T13:09:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7249709029004545281</id>
-    <title>みんなは占い信じてる〜？</title>
-    <updated>2023-06-28T12:13:45+00:00</updated>
-    <content>みんなは占い信じてる〜？</content>
-    <link href="https://tiktok.com/@sansochan1/video/7249709029004545281" rel="alternate"/>
-    <published>2023-06-28T12:13:45+00:00</published>
   </entry>
 </feed>
