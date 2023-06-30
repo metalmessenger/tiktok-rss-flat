@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_y0230</id>
   <title>_y0230 TikTok</title>
-  <updated>2023-06-28T12:23:19+00:00</updated>
+  <updated>2023-06-30T11:19:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _y0230</subtitle>
-  <entry>
-    <id>https://tiktok.com/@_y0230/video/7236380398500973825</id>
-    <title>一目惚れした？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて #学生</title>
-    <updated>2023-05-23T14:11:50+00:00</updated>
-    <content>一目惚れした？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて #学生</content>
-    <link href="https://tiktok.com/@_y0230/video/7236380398500973825" rel="alternate"/>
-    <published>2023-05-23T14:11:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@_y0230/video/7236728972736761089</id>
     <title>これ流行ってたよね？#fyp #fypシ #おすすめ #オススメ乗ってたら教えて #ダンス</title>
@@ -51,5 +43,13 @@
     <content>今流行りの🫢#盆踊りネキ #fyp #fypシ #オススメ乗ってたら教えて #おすすめ </content>
     <link href="https://tiktok.com/@_y0230/video/7249711494198349058" rel="alternate"/>
     <published>2023-06-28T12:23:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7250437176553426178</id>
+    <title>最後まで見て🩷#fyp #fypシ #オススメ乗ってたら教えて #おすすめ </title>
+    <updated>2023-06-30T11:19:19+00:00</updated>
+    <content>最後まで見て🩷#fyp #fypシ #オススメ乗ってたら教えて #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7250437176553426178" rel="alternate"/>
+    <published>2023-06-30T11:19:19+00:00</published>
   </entry>
 </feed>
