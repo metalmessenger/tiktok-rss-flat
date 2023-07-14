@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ruruka820</id>
   <title>ruruka820 TikTok</title>
-  <updated>2023-06-06T16:22:15+00:00</updated>
+  <updated>2023-07-10T14:50:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ruruka820</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7218553962276932865</id>
-    <title>透….. #おすすめ #おすすめのりたい </title>
-    <updated>2023-04-05T13:16:11+00:00</updated>
-    <content>透….. #おすすめ #おすすめのりたい </content>
-    <link href="https://tiktok.com/@ruruka820/video/7218553962276932865" rel="alternate"/>
-    <published>2023-04-05T13:16:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ruruka820/video/7219674513733127425</id>
     <title>マジックミラー号の前で… 何の車か分かった人は大人です🤭 #おすすめ #マジックミラー </title>
@@ -51,5 +43,13 @@
     <content>プール好き！ #例のプール #おすすめにのりたい </content>
     <link href="https://tiktok.com/@ruruka820/video/7241609198440549634" rel="alternate"/>
     <published>2023-06-06T16:22:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ruruka820/video/7254202427128253698</id>
+    <title>こっちをみてよっ #おすすめのりたい </title>
+    <updated>2023-07-10T14:50:27+00:00</updated>
+    <content>こっちをみてよっ #おすすめのりたい </content>
+    <link href="https://tiktok.com/@ruruka820/video/7254202427128253698" rel="alternate"/>
+    <published>2023-07-10T14:50:27+00:00</published>
   </entry>
 </feed>
