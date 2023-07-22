@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_y0230</id>
   <title>_y0230 TikTok</title>
-  <updated>2023-07-20T23:06:59+00:00</updated>
+  <updated>2023-07-22T14:19:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _y0230</subtitle>
-  <entry>
-    <id>https://tiktok.com/@_y0230/video/7255607582440656130</id>
-    <title>NYでもやっちゃうよね#fyp #fypシ #オススメ乗ってたら教えて #おすすめ #brooklyn</title>
-    <updated>2023-07-14T09:43:08+00:00</updated>
-    <content>NYでもやっちゃうよね#fyp #fypシ #オススメ乗ってたら教えて #おすすめ #brooklyn</content>
-    <link href="https://tiktok.com/@_y0230/video/7255607582440656130" rel="alternate"/>
-    <published>2023-07-14T09:43:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@_y0230/video/7256554612222627074</id>
     <title>Cute?😍#fyp #fypシ #オススメ乗ってたら教えて #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>They're looked at me😂#fypシ #fyp #NYC #オススメ乗ってたら教えて #おすすめ </content>
     <link href="https://tiktok.com/@_y0230/video/7258041191755713794" rel="alternate"/>
     <published>2023-07-20T23:06:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7258647588478438657</id>
+    <title>Good?#fyp #fypシ #NYC #オススメ乗ってたら教えて #おすすめ </title>
+    <updated>2023-07-22T14:19:54+00:00</updated>
+    <content>Good?#fyp #fypシ #NYC #オススメ乗ってたら教えて #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7258647588478438657" rel="alternate"/>
+    <published>2023-07-22T14:19:54+00:00</published>
   </entry>
 </feed>
