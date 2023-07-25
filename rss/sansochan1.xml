@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-07-23T13:53:00+00:00</updated>
+  <updated>2023-07-25T12:35:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7252329636384804098</id>
-    <title>けちょんけちょん！！</title>
-    <updated>2023-07-05T13:43:02+00:00</updated>
-    <content>けちょんけちょん！！</content>
-    <link href="https://tiktok.com/@sansochan1/video/7252329636384804098" rel="alternate"/>
-    <published>2023-07-05T13:43:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7252703698772708610</id>
-    <title>上手くできない！！</title>
-    <updated>2023-07-06T13:54:34+00:00</updated>
-    <content>上手くできない！！</content>
-    <link href="https://tiktok.com/@sansochan1/video/7252703698772708610" rel="alternate"/>
-    <published>2023-07-06T13:54:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7254174662819712258</id>
-    <title>まじ暑すぎる</title>
-    <updated>2023-07-10T13:02:44+00:00</updated>
-    <content>まじ暑すぎる</content>
-    <link href="https://tiktok.com/@sansochan1/video/7254174662819712258" rel="alternate"/>
-    <published>2023-07-10T13:02:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7254185641292909825</id>
     <title>もう夏なのに腹筋作れてない終わった‼️</title>
@@ -51,5 +27,29 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@sansochan1/video/7259011737943379201" rel="alternate"/>
     <published>2023-07-23T13:53:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7259730297489493266</id>
+    <title>No Title</title>
+    <updated>2023-07-25T12:21:23+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7259730297489493266" rel="alternate"/>
+    <published>2023-07-25T12:21:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7259732458566896914</id>
+    <title>No Title</title>
+    <updated>2023-07-25T12:29:45+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7259732458566896914" rel="alternate"/>
+    <published>2023-07-25T12:29:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7259733977001364744</id>
+    <title>No Title</title>
+    <updated>2023-07-25T12:35:38+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7259733977001364744" rel="alternate"/>
+    <published>2023-07-25T12:35:38+00:00</published>
   </entry>
 </feed>
