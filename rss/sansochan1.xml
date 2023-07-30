@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-07-28T10:03:38+00:00</updated>
+  <updated>2023-07-26T12:49:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7254185641292909825</id>
+    <title>もう夏なのに腹筋作れてない終わった‼️</title>
+    <updated>2023-07-10T13:45:17+00:00</updated>
+    <content>もう夏なのに腹筋作れてない終わった‼️</content>
+    <link href="https://tiktok.com/@sansochan1/video/7254185641292909825" rel="alternate"/>
+    <published>2023-07-10T13:45:17+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7259011737943379201</id>
     <title>No Title</title>
@@ -43,13 +51,5 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@sansochan1/video/7260108752953576711" rel="alternate"/>
     <published>2023-07-26T12:49:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7260808055699311879</id>
-    <title>No Title</title>
-    <updated>2023-07-28T10:03:38+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7260808055699311879" rel="alternate"/>
-    <published>2023-07-28T10:03:38+00:00</published>
   </entry>
 </feed>
