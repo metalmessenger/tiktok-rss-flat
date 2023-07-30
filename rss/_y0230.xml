@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_y0230</id>
   <title>_y0230 TikTok</title>
-  <updated>2023-07-26T13:55:54+00:00</updated>
+  <updated>2023-07-30T15:16:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -29,14 +29,6 @@
     <published>2023-07-22T14:19:54+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@_y0230/video/7258989337008721153</id>
-    <title>This place was so crowded #fypシ #fyp #NYC #オススメ乗ってたら教えて #おすすめ #timesquare </title>
-    <updated>2023-07-23T12:26:05+00:00</updated>
-    <content>This place was so crowded #fypシ #fyp #NYC #オススメ乗ってたら教えて #おすすめ #timesquare </content>
-    <link href="https://tiktok.com/@_y0230/video/7258989337008721153" rel="alternate"/>
-    <published>2023-07-23T12:26:05+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@_y0230/video/7259713160817446145</id>
     <title>Have u ever been NY?🇺🇸#fypシ #fyp #オススメ乗ってたら教えて #おすすめ #NYC </title>
     <updated>2023-07-25T11:14:52+00:00</updated>
@@ -51,5 +43,13 @@
     <content>No listen #fyp #fypシ #オススメ乗ってたら教えて #おすすめ #NYC </content>
     <link href="https://tiktok.com/@_y0230/video/7260125744783691010" rel="alternate"/>
     <published>2023-07-26T13:55:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7261630724246162690</id>
+    <title>I watched wicked in broad way#fypシ #fyp #おすすめ #オススメ乗ってたら教えて #NYC #brooklyn #broadway </title>
+    <updated>2023-07-30T15:16:01+00:00</updated>
+    <content>I watched wicked in broad way#fypシ #fyp #おすすめ #オススメ乗ってたら教えて #NYC #brooklyn #broadway </content>
+    <link href="https://tiktok.com/@_y0230/video/7261630724246162690" rel="alternate"/>
+    <published>2023-07-30T15:16:01+00:00</published>
   </entry>
 </feed>
