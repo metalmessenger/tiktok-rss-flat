@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@macca.bikini</id>
   <title>macca.bikini TikTok</title>
-  <updated>2023-07-31T17:22:20+00:00</updated>
+  <updated>2023-08-01T05:31:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-07-29T04:26:50+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7262034257047080199</id>
-    <title>きょ○ゅ○う</title>
-    <updated>2023-07-31T17:21:59+00:00</updated>
-    <content>きょ○ゅ○う</content>
-    <link href="https://tiktok.com/@macca.bikini/video/7262034257047080199" rel="alternate"/>
-    <published>2023-07-31T17:21:59+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@macca.bikini/video/7262034278580604167</id>
     <title>No Title</title>
     <updated>2023-07-31T17:22:20+00:00</updated>
     <content>No Description</content>
     <link href="https://tiktok.com/@macca.bikini/video/7262034278580604167" rel="alternate"/>
     <published>2023-07-31T17:22:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7262222243978169618</id>
+    <title>No Title</title>
+    <updated>2023-08-01T05:31:24+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7262222243978169618" rel="alternate"/>
+    <published>2023-08-01T05:31:24+00:00</published>
   </entry>
 </feed>
