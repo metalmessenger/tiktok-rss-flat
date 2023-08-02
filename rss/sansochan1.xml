@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-08-01T10:37:43+00:00</updated>
+  <updated>2023-08-02T14:04:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7260106958756252935</id>
-    <title>とかとかとーかっ！</title>
-    <updated>2023-07-26T12:43:00+00:00</updated>
-    <content>とかとかとーかっ！</content>
-    <link href="https://tiktok.com/@sansochan1/video/7260106958756252935" rel="alternate"/>
-    <published>2023-07-26T12:43:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7260808055699311879</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>隅田川花火大会人えぐかった</content>
     <link href="https://tiktok.com/@sansochan1/video/7262301185942523154" rel="alternate"/>
     <published>2023-08-01T10:37:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7262725683082743048</id>
+    <title>おすすめの祭りどこ〜？</title>
+    <updated>2023-08-02T14:04:59+00:00</updated>
+    <content>おすすめの祭りどこ〜？</content>
+    <link href="https://tiktok.com/@sansochan1/video/7262725683082743048" rel="alternate"/>
+    <published>2023-08-02T14:04:59+00:00</published>
   </entry>
 </feed>
