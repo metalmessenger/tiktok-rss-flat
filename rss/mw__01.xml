@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-08-10T09:23:33+00:00</updated>
+  <updated>2023-08-14T10:11:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7258593044914556161</id>
-    <title>#01 #fyp #おすすめ </title>
-    <updated>2023-07-22T10:48:15+00:00</updated>
-    <content>#01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7258593044914556161" rel="alternate"/>
-    <published>2023-07-22T10:48:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7259323224322854152</id>
     <title>白浜ナンパだらけだった😂😂　　　　　　　　　#01 #fyp #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>男性の99％が浮気するらしい🤦🏻‍♀️💢 浮気するならバレんようにして‼️#01 #fyp #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7265621832328301832" rel="alternate"/>
     <published>2023-08-10T09:23:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7267118449636183303</id>
+    <title>#01 #fyp #おすすめ </title>
+    <updated>2023-08-14T10:11:19+00:00</updated>
+    <content>#01 #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7267118449636183303" rel="alternate"/>
+    <published>2023-08-14T10:11:19+00:00</published>
   </entry>
 </feed>
