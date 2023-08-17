@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-08-16T09:23:29+00:00</updated>
+  <updated>2023-08-17T08:56:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7261928869987454216</id>
-    <title>男友達の彼女に、なんもしてないのに嫌われるのなんで😹‼️#01 #fyp #おすすめ </title>
-    <updated>2023-07-31T10:32:58+00:00</updated>
-    <content>男友達の彼女に、なんもしてないのに嫌われるのなんで😹‼️#01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7261928869987454216" rel="alternate"/>
-    <published>2023-07-31T10:32:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7265621832328301832</id>
     <title>男性の99％が浮気するらしい🤦🏻‍♀️💢 浮気するならバレんようにして‼️#01 #fyp #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>弟に、お姉ちゃんもジャニーズと繋がってるん？？って聞かれたwww #01 #fyp </content>
     <link href="https://tiktok.com/@mw__01/video/7267848328824589570" rel="alternate"/>
     <published>2023-08-16T09:23:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7268212358634343681</id>
+    <title>ブラコンなので、弟に彼女できたら審査します🥰🥰 #01 #fyp #おすすめ </title>
+    <updated>2023-08-17T08:56:10+00:00</updated>
+    <content>ブラコンなので、弟に彼女できたら審査します🥰🥰 #01 #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7268212358634343681" rel="alternate"/>
+    <published>2023-08-17T08:56:10+00:00</published>
   </entry>
 </feed>
