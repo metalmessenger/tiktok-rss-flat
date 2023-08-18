@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-08-18T14:03:48+00:00</updated>
+  <updated>2023-08-18T14:44:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-08-12T12:39:43+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sansochan1/video/7268661086365175041</id>
-    <title>溜め録り</title>
-    <updated>2023-08-18T13:57:22+00:00</updated>
-    <content>溜め録り</content>
-    <link href="https://tiktok.com/@sansochan1/video/7268661086365175041" rel="alternate"/>
-    <published>2023-08-18T13:57:22+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@sansochan1/video/7268662736597323010</id>
     <title>No Title</title>
     <updated>2023-08-18T14:03:48+00:00</updated>
     <content>No Description</content>
     <link href="https://tiktok.com/@sansochan1/video/7268662736597323010" rel="alternate"/>
     <published>2023-08-18T14:03:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7268673354469494018</id>
+    <title>No Title</title>
+    <updated>2023-08-18T14:44:59+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7268673354469494018" rel="alternate"/>
+    <published>2023-08-18T14:44:59+00:00</published>
   </entry>
 </feed>
