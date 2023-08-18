@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@macca.bikini</id>
   <title>macca.bikini TikTok</title>
-  <updated>2023-08-18T01:50:45+00:00</updated>
+  <updated>2023-08-18T08:25:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from macca.bikini</subtitle>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7266307552432999698</id>
-    <title>No Title</title>
-    <updated>2023-08-12T05:44:30+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@macca.bikini/video/7266307552432999698" rel="alternate"/>
-    <published>2023-08-12T05:44:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@macca.bikini/video/7266734937749884178</id>
     <title>見えてないよね?</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@macca.bikini/video/7268473817935187201" rel="alternate"/>
     <published>2023-08-18T01:50:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7268575656403897601</id>
+    <title>No Title</title>
+    <updated>2023-08-18T08:25:56+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7268575656403897601" rel="alternate"/>
+    <published>2023-08-18T08:25:56+00:00</published>
   </entry>
 </feed>
