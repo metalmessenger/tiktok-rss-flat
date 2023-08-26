@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_y0230</id>
   <title>_y0230 TikTok</title>
-  <updated>2023-08-25T11:16:13+00:00</updated>
+  <updated>2023-08-26T16:49:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _y0230</subtitle>
-  <entry>
-    <id>https://tiktok.com/@_y0230/video/7266339571149901058</id>
-    <title>Let's go dancing together#fyp #fypシ #おすすめ #私しか勝たん </title>
-    <updated>2023-08-12T07:48:46+00:00</updated>
-    <content>Let's go dancing together#fyp #fypシ #おすすめ #私しか勝たん </content>
-    <link href="https://tiktok.com/@_y0230/video/7266339571149901058" rel="alternate"/>
-    <published>2023-08-12T07:48:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@_y0230/video/7267141191655836929</id>
     <title>Happy holidays😍#fypシ #fyp #おすすめ #私しか勝たん #NYC </title>
@@ -51,5 +43,13 @@
     <content>I know we're perfect #fyp #fypシ #followme #happy #love </content>
     <link href="https://tiktok.com/@_y0230/video/7271217154660322567" rel="alternate"/>
     <published>2023-08-25T11:16:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7271674073153834247</id>
+    <title>Sup?#fypシ #fyp #followme #おすすめ </title>
+    <updated>2023-08-26T16:49:19+00:00</updated>
+    <content>Sup?#fypシ #fyp #followme #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7271674073153834247" rel="alternate"/>
+    <published>2023-08-26T16:49:19+00:00</published>
   </entry>
 </feed>
