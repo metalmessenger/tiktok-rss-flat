@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_y0230</id>
   <title>_y0230 TikTok</title>
-  <updated>2023-08-26T16:49:19+00:00</updated>
+  <updated>2023-08-27T14:29:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _y0230</subtitle>
-  <entry>
-    <id>https://tiktok.com/@_y0230/video/7267141191655836929</id>
-    <title>Happy holidays😍#fypシ #fyp #おすすめ #私しか勝たん #NYC </title>
-    <updated>2023-08-14T11:39:27+00:00</updated>
-    <content>Happy holidays😍#fypシ #fyp #おすすめ #私しか勝たん #NYC </content>
-    <link href="https://tiktok.com/@_y0230/video/7267141191655836929" rel="alternate"/>
-    <published>2023-08-14T11:39:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@_y0230/video/7269355036940045576</id>
-    <title>Im natural#fyp #fypシ #おすすめ #私しか勝たん #Shibuya</title>
-    <updated>2023-08-20T10:50:18+00:00</updated>
-    <content>Im natural#fyp #fypシ #おすすめ #私しか勝たん #Shibuya</content>
-    <link href="https://tiktok.com/@_y0230/video/7269355036940045576" rel="alternate"/>
-    <published>2023-08-20T10:50:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@_y0230/video/7270158231236791559</id>
     <title>We're untouchable #fyp #fypシ #followme #love #happy </title>
@@ -51,5 +35,21 @@
     <content>Sup?#fypシ #fyp #followme #おすすめ </content>
     <link href="https://tiktok.com/@_y0230/video/7271674073153834247" rel="alternate"/>
     <published>2023-08-26T16:49:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7271985296198126855</id>
+    <title>Am i beauty?#fyp #fypシ #beach #おすすめ </title>
+    <updated>2023-08-27T12:57:01+00:00</updated>
+    <content>Am i beauty?#fyp #fypシ #beach #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7271985296198126855" rel="alternate"/>
+    <published>2023-08-27T12:57:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7272009212920696071</id>
+    <title>Are you enjoying summer?😆#fypシ #fyp #夏の思い出 #summer #おすすめ </title>
+    <updated>2023-08-27T14:29:50+00:00</updated>
+    <content>Are you enjoying summer?😆#fypシ #fyp #夏の思い出 #summer #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7272009212920696071" rel="alternate"/>
+    <published>2023-08-27T14:29:50+00:00</published>
   </entry>
 </feed>
