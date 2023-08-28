@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-08-25T14:27:04+00:00</updated>
+  <updated>2023-08-28T13:20:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7268662736597323010</id>
-    <title>No Title</title>
-    <updated>2023-08-18T14:03:48+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7268662736597323010" rel="alternate"/>
-    <published>2023-08-18T14:03:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7270872820366740737</id>
-    <title>太ったかも</title>
-    <updated>2023-08-24T13:00:04+00:00</updated>
-    <content>太ったかも</content>
-    <link href="https://tiktok.com/@sansochan1/video/7270872820366740737" rel="alternate"/>
-    <published>2023-08-24T13:00:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7270873655603694849</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>水素が髪の毛結んでくれた</content>
     <link href="https://tiktok.com/@sansochan1/video/7271266324968525058" rel="alternate"/>
     <published>2023-08-25T14:27:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7272360362681453826</id>
+    <title>No Title</title>
+    <updated>2023-08-28T13:12:30+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7272360362681453826" rel="alternate"/>
+    <published>2023-08-28T13:12:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7272362475411066113</id>
+    <title>No Title</title>
+    <updated>2023-08-28T13:20:40+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7272362475411066113" rel="alternate"/>
+    <published>2023-08-28T13:20:40+00:00</published>
   </entry>
 </feed>
