@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-08-30T13:14:34+00:00</updated>
+  <updated>2023-08-30T13:23:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-08-30T12:55:56+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sansochan1/video/7273101333715012865</id>
-    <title>これ難しい😿</title>
-    <updated>2023-08-30T13:07:49+00:00</updated>
-    <content>これ難しい😿</content>
-    <link href="https://tiktok.com/@sansochan1/video/7273101333715012865" rel="alternate"/>
-    <published>2023-08-30T13:07:49+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@sansochan1/video/7273103071629036802</id>
     <title>早く秋来ないかな🍁</title>
     <updated>2023-08-30T13:14:34+00:00</updated>
     <content>早く秋来ないかな🍁</content>
     <link href="https://tiktok.com/@sansochan1/video/7273103071629036802" rel="alternate"/>
     <published>2023-08-30T13:14:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7273105401967660290</id>
+    <title>久しぶりにライブしようかな</title>
+    <updated>2023-08-30T13:23:37+00:00</updated>
+    <content>久しぶりにライブしようかな</content>
+    <link href="https://tiktok.com/@sansochan1/video/7273105401967660290" rel="alternate"/>
+    <published>2023-08-30T13:23:37+00:00</published>
   </entry>
 </feed>
