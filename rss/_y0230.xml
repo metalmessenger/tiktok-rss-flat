@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_y0230</id>
   <title>_y0230 TikTok</title>
-  <updated>2023-08-29T12:04:06+00:00</updated>
+  <updated>2023-08-29T11:56:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _y0230</subtitle>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7270158231236791559</id>
+    <title>We're untouchable #fyp #fypシ #followme #love #happy </title>
+    <updated>2023-08-22T14:47:04+00:00</updated>
+    <content>We're untouchable #fyp #fypシ #followme #love #happy </content>
+    <link href="https://tiktok.com/@_y0230/video/7270158231236791559" rel="alternate"/>
+    <published>2023-08-22T14:47:04+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@_y0230/video/7271217154660322567</id>
     <title>I know we're perfect #fyp #fypシ #followme #happy #love </title>
@@ -43,13 +51,5 @@
     <content>Im 🔥#fypシ #fyp #おすすめ #summer </content>
     <link href="https://tiktok.com/@_y0230/video/7272712002638744839" rel="alternate"/>
     <published>2023-08-29T11:56:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@_y0230/video/7272713838041042194</id>
-    <title>What number is everyone?#fyp #fypシ </title>
-    <updated>2023-08-29T12:04:06+00:00</updated>
-    <content>What number is everyone?#fyp #fypシ </content>
-    <link href="https://tiktok.com/@_y0230/video/7272713838041042194" rel="alternate"/>
-    <published>2023-08-29T12:04:06+00:00</published>
   </entry>
 </feed>
