@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@karinaa_08_17</id>
   <title>karinaa_08_17 TikTok</title>
-  <updated>2023-07-20T09:43:30+00:00</updated>
+  <updated>2023-05-06T06:42:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from karinaa_08_17</subtitle>
+  <entry>
+    <id>https://tiktok.com/@karinaa_08_17/video/7218106557165227265</id>
+    <title>加工外れちゃった的な笑 #08 #インスタおいで </title>
+    <updated>2023-04-04T08:20:01+00:00</updated>
+    <content>加工外れちゃった的な笑 #08 #インスタおいで </content>
+    <link href="https://tiktok.com/@karinaa_08_17/video/7218106557165227265" rel="alternate"/>
+    <published>2023-04-04T08:20:01+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@karinaa_08_17/video/7219232847150779650</id>
     <title>他のかりなの人についてのコメント来る😐😐  #08 #インスタおいで </title>
@@ -43,13 +51,5 @@
     <content>前垢の動画Part2！自分でライブすると年齢足りなくてBANされるから人のライブに出る事にしました！ #08 #この時中3 #インスタおいで </content>
     <link href="https://tiktok.com/@karinaa_08_17/video/7229956144121400577" rel="alternate"/>
     <published>2023-05-06T06:42:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@karinaa_08_17/video/7257834180023799041</id>
-    <title>この音源が頭から離れない笑 #08 #インスタおいで #ボディズーム </title>
-    <updated>2023-07-20T09:43:30+00:00</updated>
-    <content>この音源が頭から離れない笑 #08 #インスタおいで #ボディズーム </content>
-    <link href="https://tiktok.com/@karinaa_08_17/video/7257834180023799041" rel="alternate"/>
-    <published>2023-07-20T09:43:30+00:00</published>
   </entry>
 </feed>
