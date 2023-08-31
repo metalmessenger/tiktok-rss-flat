@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-08-30T13:23:37+00:00</updated>
+  <updated>2023-08-30T13:14:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7270878191726759170</id>
+    <title>酸素とデートするならどこ行く？</title>
+    <updated>2023-08-24T13:20:55+00:00</updated>
+    <content>酸素とデートするならどこ行く？</content>
+    <link href="https://tiktok.com/@sansochan1/video/7270878191726759170" rel="alternate"/>
+    <published>2023-08-24T13:20:55+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7271266324968525058</id>
     <title>水素が髪の毛結んでくれた</title>
@@ -43,13 +51,5 @@
     <content>早く秋来ないかな🍁</content>
     <link href="https://tiktok.com/@sansochan1/video/7273103071629036802" rel="alternate"/>
     <published>2023-08-30T13:14:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7273105401967660290</id>
-    <title>久しぶりにライブしようかな</title>
-    <updated>2023-08-30T13:23:37+00:00</updated>
-    <content>久しぶりにライブしようかな</content>
-    <link href="https://tiktok.com/@sansochan1/video/7273105401967660290" rel="alternate"/>
-    <published>2023-08-30T13:23:37+00:00</published>
   </entry>
 </feed>
