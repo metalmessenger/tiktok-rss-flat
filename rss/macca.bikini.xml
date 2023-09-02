@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@macca.bikini</id>
   <title>macca.bikini TikTok</title>
-  <updated>2023-08-25T11:55:59+00:00</updated>
+  <updated>2023-09-02T17:28:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from macca.bikini</subtitle>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7270585388077419777</id>
-    <title>@mayuashley 👶🏻👶🏻👶🏻👶🏻</title>
-    <updated>2023-08-23T18:24:43+00:00</updated>
-    <content>@mayuashley 👶🏻👶🏻👶🏻👶🏻</content>
-    <link href="https://tiktok.com/@macca.bikini/video/7270585388077419777" rel="alternate"/>
-    <published>2023-08-23T18:24:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@macca.bikini/video/7270595661660196098</id>
     <title>summer and macca</title>
@@ -51,5 +43,13 @@
     <content>@mayuashley @まっか🧚‍♀️macca </content>
     <link href="https://tiktok.com/@macca.bikini/video/7271227394386693377" rel="alternate"/>
     <published>2023-08-25T11:55:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7274281822698310913</id>
+    <title>No Title</title>
+    <updated>2023-09-02T17:28:43+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7274281822698310913" rel="alternate"/>
+    <published>2023-09-02T17:28:43+00:00</published>
   </entry>
 </feed>
