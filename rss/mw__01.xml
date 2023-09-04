@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-09-03T09:33:44+00:00</updated>
+  <updated>2023-09-04T09:48:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7273084577403407618</id>
-    <title>私とした事あるってウソついてる、韓国系インスタグラマーに届け‼️‼️#01 #おすすめ #fyp </title>
-    <updated>2023-08-30T12:02:48+00:00</updated>
-    <content>私とした事あるってウソついてる、韓国系インスタグラマーに届け‼️‼️#01 #おすすめ #fyp </content>
-    <link href="https://tiktok.com/@mw__01/video/7273084577403407618" rel="alternate"/>
-    <published>2023-08-30T12:02:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7273458679419079938</id>
     <title>パン粉ってなーに‼️‼️#01 #fyp #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>担当が前髪無し好きらしいので、しばらく前髪なし(&gt;ᴗ&lt;) #01 #fyp #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7274530496850251010" rel="alternate"/>
     <published>2023-09-03T09:33:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7274905445825826050</id>
+    <title>#01 #fyp #おすすめ </title>
+    <updated>2023-09-04T09:48:44+00:00</updated>
+    <content>#01 #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7274905445825826050" rel="alternate"/>
+    <published>2023-09-04T09:48:44+00:00</published>
   </entry>
 </feed>
