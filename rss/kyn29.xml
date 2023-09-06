@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kyn29</id>
   <title>kyn29 TikTok</title>
-  <updated>2023-09-06T11:34:59+00:00</updated>
+  <updated>2023-09-03T10:54:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kyn29</subtitle>
+  <entry>
+    <id>https://tiktok.com/@kyn29/video/7254521519114636546</id>
+    <title>😉</title>
+    <updated>2023-07-11T11:28:39+00:00</updated>
+    <content>😉</content>
+    <link href="https://tiktok.com/@kyn29/video/7254521519114636546" rel="alternate"/>
+    <published>2023-07-11T11:28:39+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@kyn29/video/7257124232327433474</id>
     <title>うーの顔</title>
@@ -43,13 +51,5 @@
     <content>お腹ムニッてるのは体勢の問題(たぶん)</content>
     <link href="https://tiktok.com/@kyn29/video/7274551196193410305" rel="alternate"/>
     <published>2023-09-03T10:54:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kyn29/video/7275675008167365890</id>
-    <title>友達アングルときゃんアングル👭プールそんな深いと思ってなくて頭まで浸かっちゃって顔も髪もびしょ濡れで耳に水むっちゃ入った🙉けどいい思い出♪</title>
-    <updated>2023-09-06T11:34:59+00:00</updated>
-    <content>友達アングルときゃんアングル👭プールそんな深いと思ってなくて頭まで浸かっちゃって顔も髪もびしょ濡れで耳に水むっちゃ入った🙉けどいい思い出♪</content>
-    <link href="https://tiktok.com/@kyn29/video/7275675008167365890" rel="alternate"/>
-    <published>2023-09-06T11:34:59+00:00</published>
   </entry>
 </feed>
