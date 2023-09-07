@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-09-06T10:20:20+00:00</updated>
+  <updated>2023-09-05T10:16:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7273458679419079938</id>
+    <title>パン粉ってなーに‼️‼️#01 #fyp #おすすめ </title>
+    <updated>2023-08-31T12:14:30+00:00</updated>
+    <content>パン粉ってなーに‼️‼️#01 #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7273458679419079938" rel="alternate"/>
+    <published>2023-08-31T12:14:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7273462226898472193</id>
+    <title>また友達にキスマつけられたー‼️🥵‪💢 #01 #fyp #おすすめ </title>
+    <updated>2023-08-31T12:28:16+00:00</updated>
+    <content>また友達にキスマつけられたー‼️🥵‪💢 #01 #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7273462226898472193" rel="alternate"/>
+    <published>2023-08-31T12:28:16+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7273794671027981570</id>
     <title>彼氏ほしい彼氏ほしい彼氏ほしい彼氏ほしい彼氏ほしい彼氏ほしい彼氏ほしい彼氏ほしい彼氏ほしい彼氏ほしい彼氏ほしい彼氏ほしい‼️‼️‼️#01 #fyp #おすすめ </title>
@@ -29,27 +45,11 @@
     <published>2023-09-03T09:33:44+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@mw__01/video/7274905445825826050</id>
-    <title>#01 #fyp #おすすめ </title>
-    <updated>2023-09-04T09:48:44+00:00</updated>
-    <content>#01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7274905445825826050" rel="alternate"/>
-    <published>2023-09-04T09:48:44+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@mw__01/video/7275283579196706050</id>
     <title>女ウケより、男ウケ重視‼️‼️                 #01 #fyp #おすすめ #彼氏目線 </title>
     <updated>2023-09-05T10:16:04+00:00</updated>
     <content>女ウケより、男ウケ重視‼️‼️                 #01 #fyp #おすすめ #彼氏目線 </content>
     <link href="https://tiktok.com/@mw__01/video/7275283579196706050" rel="alternate"/>
     <published>2023-09-05T10:16:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7275655767439510785</id>
-    <title>出会い無さすぎる(&gt;ᴗ&lt;)みんなどこで出会うん‼️#01 #fyp #おすすめ </title>
-    <updated>2023-09-06T10:20:20+00:00</updated>
-    <content>出会い無さすぎる(&gt;ᴗ&lt;)みんなどこで出会うん‼️#01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7275655767439510785" rel="alternate"/>
-    <published>2023-09-06T10:20:20+00:00</published>
   </entry>
 </feed>
