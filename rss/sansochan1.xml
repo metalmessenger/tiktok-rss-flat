@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-09-06T13:14:43+00:00</updated>
+  <updated>2023-09-11T13:05:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7270873655603694849</id>
-    <title>No Title</title>
-    <updated>2023-08-24T13:03:18+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7270873655603694849" rel="alternate"/>
-    <published>2023-08-24T13:03:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7270878191726759170</id>
     <title>酸素とデートするならどこ行く？</title>
@@ -51,5 +43,13 @@
     <content>痩せたい‼️‼️‼️</content>
     <link href="https://tiktok.com/@sansochan1/video/7275700707284552961" rel="alternate"/>
     <published>2023-09-06T13:14:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7277553828138880258</id>
+    <title>お腹ぷにぷに☞﻿)︎︎◜ε◝ (☜</title>
+    <updated>2023-09-11T13:05:48+00:00</updated>
+    <content>お腹ぷにぷに☞﻿)︎︎◜ε◝ (☜</content>
+    <link href="https://tiktok.com/@sansochan1/video/7277553828138880258" rel="alternate"/>
+    <published>2023-09-11T13:05:48+00:00</published>
   </entry>
 </feed>
