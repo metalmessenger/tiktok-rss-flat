@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-09-11T13:05:48+00:00</updated>
+  <updated>2023-09-12T11:03:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7270878191726759170</id>
-    <title>酸素とデートするならどこ行く？</title>
-    <updated>2023-08-24T13:20:55+00:00</updated>
-    <content>酸素とデートするならどこ行く？</content>
-    <link href="https://tiktok.com/@sansochan1/video/7270878191726759170" rel="alternate"/>
-    <published>2023-08-24T13:20:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7271266324968525058</id>
-    <title>水素が髪の毛結んでくれた</title>
-    <updated>2023-08-25T14:27:04+00:00</updated>
-    <content>水素が髪の毛結んでくれた</content>
-    <link href="https://tiktok.com/@sansochan1/video/7271266324968525058" rel="alternate"/>
-    <published>2023-08-25T14:27:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7273098272154078465</id>
     <title>モチベちょうだい！！！</title>
@@ -51,5 +35,21 @@
     <content>お腹ぷにぷに☞﻿)︎︎◜ε◝ (☜</content>
     <link href="https://tiktok.com/@sansochan1/video/7277553828138880258" rel="alternate"/>
     <published>2023-09-11T13:05:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7277891501756042497</id>
+    <title>だんだん涼しくなってきたね🍃</title>
+    <updated>2023-09-12T10:56:06+00:00</updated>
+    <content>だんだん涼しくなってきたね🍃</content>
+    <link href="https://tiktok.com/@sansochan1/video/7277891501756042497" rel="alternate"/>
+    <published>2023-09-12T10:56:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7277893291272621313</id>
+    <title>先輩どこ</title>
+    <updated>2023-09-12T11:03:03+00:00</updated>
+    <content>先輩どこ</content>
+    <link href="https://tiktok.com/@sansochan1/video/7277893291272621313" rel="alternate"/>
+    <published>2023-09-12T11:03:03+00:00</published>
   </entry>
 </feed>
