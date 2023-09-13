@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ruruka820</id>
   <title>ruruka820 TikTok</title>
-  <updated>2023-09-12T13:57:16+00:00</updated>
+  <updated>2023-09-13T15:30:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ruruka820</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7273799376294645000</id>
-    <title>お久しぶり〜！ 投稿復活するのでみてくださいっ   #スーツ女子 #グラビア </title>
-    <updated>2023-09-01T10:16:34+00:00</updated>
-    <content>お久しぶり〜！ 投稿復活するのでみてくださいっ   #スーツ女子 #グラビア </content>
-    <link href="https://tiktok.com/@ruruka820/video/7273799376294645000" rel="alternate"/>
-    <published>2023-09-01T10:16:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ruruka820/video/7274914996453264641</id>
     <title>フリが覚えられない(24) #スーツ女子 #japanesegirl #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>#グラビア #おすすめのりたい </content>
     <link href="https://tiktok.com/@ruruka820/video/7277938188600036610" rel="alternate"/>
     <published>2023-09-12T13:57:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ruruka820/video/7278333251473689858</id>
+    <title>無音でノリで撮ってた動画が、 音源ぴったりだったのでハメてみた。(笑) #おすすめ #japanesegirl </title>
+    <updated>2023-09-13T15:30:19+00:00</updated>
+    <content>無音でノリで撮ってた動画が、 音源ぴったりだったのでハメてみた。(笑) #おすすめ #japanesegirl </content>
+    <link href="https://tiktok.com/@ruruka820/video/7278333251473689858" rel="alternate"/>
+    <published>2023-09-13T15:30:19+00:00</published>
   </entry>
 </feed>
