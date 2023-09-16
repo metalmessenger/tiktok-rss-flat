@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_y0230</id>
   <title>_y0230 TikTok</title>
-  <updated>2023-09-04T11:21:51+00:00</updated>
+  <updated>2023-09-16T11:56:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _y0230</subtitle>
-  <entry>
-    <id>https://tiktok.com/@_y0230/video/7271217154660322567</id>
-    <title>I know we're perfect #fyp #fypシ #followme #happy #love </title>
-    <updated>2023-08-25T11:16:13+00:00</updated>
-    <content>I know we're perfect #fyp #fypシ #followme #happy #love </content>
-    <link href="https://tiktok.com/@_y0230/video/7271217154660322567" rel="alternate"/>
-    <published>2023-08-25T11:16:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@_y0230/video/7271674073153834247</id>
     <title>Sup?#fypシ #fyp #followme #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>Body rock🦫#fypシ #fyp #justinbieber #beautyandabeat </content>
     <link href="https://tiktok.com/@_y0230/video/7274929457624796434" rel="alternate"/>
     <published>2023-09-04T11:21:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7279391352662543624</id>
+    <title>Don't play with it #fyp #fypシ #おすすめ </title>
+    <updated>2023-09-16T11:56:17+00:00</updated>
+    <content>Don't play with it #fyp #fypシ #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7279391352662543624" rel="alternate"/>
+    <published>2023-09-16T11:56:17+00:00</published>
   </entry>
 </feed>
