@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@macca.bikini</id>
   <title>macca.bikini TikTok</title>
-  <updated>2023-09-22T07:47:03+00:00</updated>
+  <updated>2023-09-23T08:32:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from macca.bikini</subtitle>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7280440323107572993</id>
-    <title>🇯🇵 #japanese #japanesegirl #asiantiktoker #asiantiktok #nobra #nobraclub #hottie #bralesslife</title>
-    <updated>2023-09-19T07:46:52+00:00</updated>
-    <content>🇯🇵 #japanese #japanesegirl #asiantiktoker #asiantiktok #nobra #nobraclub #hottie #bralesslife</content>
-    <link href="https://tiktok.com/@macca.bikini/video/7280440323107572993" rel="alternate"/>
-    <published>2023-09-19T07:46:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@macca.bikini/video/7280784872057146626</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>うー😘😘😘 #まっか #ビキニ </content>
     <link href="https://tiktok.com/@macca.bikini/video/7281553622100495618" rel="alternate"/>
     <published>2023-09-22T07:47:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7281936334803995906</id>
+    <title>#ビキニ #まっか #ゆうめろ #bikini</title>
+    <updated>2023-09-23T08:32:09+00:00</updated>
+    <content>#ビキニ #まっか #ゆうめろ #bikini</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7281936334803995906" rel="alternate"/>
+    <published>2023-09-23T08:32:09+00:00</published>
   </entry>
 </feed>
