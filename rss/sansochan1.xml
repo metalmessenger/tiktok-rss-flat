@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-10-01T16:19:00+00:00</updated>
+  <updated>2023-10-02T12:14:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7281188088255139074</id>
-    <title>髪型が友達の元彼に似てるって言われた😟</title>
-    <updated>2023-09-21T08:08:34+00:00</updated>
-    <content>髪型が友達の元彼に似てるって言われた😟</content>
-    <link href="https://tiktok.com/@sansochan1/video/7281188088255139074" rel="alternate"/>
-    <published>2023-09-21T08:08:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7282751610369936642</id>
-    <title>こうやって上げるの何気初かも🥹</title>
-    <updated>2023-09-25T13:15:50+00:00</updated>
-    <content>こうやって上げるの何気初かも🥹</content>
-    <link href="https://tiktok.com/@sansochan1/video/7282751610369936642" rel="alternate"/>
-    <published>2023-09-25T13:15:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7283106441957870850</id>
     <title>心落ち着かせてください🙇‍♀️</title>
@@ -51,5 +35,21 @@
     <content>下書き</content>
     <link href="https://tiktok.com/@sansochan1/video/7285025323639393538" rel="alternate"/>
     <published>2023-10-01T16:19:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7285332478238280961</id>
+    <title>熱出してロングの動画まだこれしかない🥹</title>
+    <updated>2023-10-02T12:10:58+00:00</updated>
+    <content>熱出してロングの動画まだこれしかない🥹</content>
+    <link href="https://tiktok.com/@sansochan1/video/7285332478238280961" rel="alternate"/>
+    <published>2023-10-02T12:10:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7285333319833619714</id>
+    <title>🐺</title>
+    <updated>2023-10-02T12:14:11+00:00</updated>
+    <content>🐺</content>
+    <link href="https://tiktok.com/@sansochan1/video/7285333319833619714" rel="alternate"/>
+    <published>2023-10-02T12:14:11+00:00</published>
   </entry>
 </feed>
