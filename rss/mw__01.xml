@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-10-03T12:35:14+00:00</updated>
+  <updated>2023-10-04T11:14:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7284239650460388610</id>
-    <title>この服着て歩いてたらめっちゃ見られる🤣‼️#01 #fyp #おすすめ </title>
-    <updated>2023-09-29T13:30:11+00:00</updated>
-    <content>この服着て歩いてたらめっちゃ見られる🤣‼️#01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7284239650460388610" rel="alternate"/>
-    <published>2023-09-29T13:30:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7284941157006675201</id>
     <title>自分は吸わんけど、タバコ吸う男の人好き‼️‼️👍🏻#01 #fyp #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>どんな服装の女の子が好きー？？　　　#01 #fyp #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7285709826527628545" rel="alternate"/>
     <published>2023-10-03T12:35:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7286060182981954818</id>
+    <title>ネイル褒める男は浮気するらしい‼️‼️#01 #fyp #プレーンメイク #おすすめ </title>
+    <updated>2023-10-04T11:14:49+00:00</updated>
+    <content>ネイル褒める男は浮気するらしい‼️‼️#01 #fyp #プレーンメイク #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7286060182981954818" rel="alternate"/>
+    <published>2023-10-04T11:14:49+00:00</published>
   </entry>
 </feed>
