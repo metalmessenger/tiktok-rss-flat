@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ruruka820</id>
   <title>ruruka820 TikTok</title>
-  <updated>2023-09-21T08:23:14+00:00</updated>
+  <updated>2023-10-05T14:50:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ruruka820</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7277938188600036610</id>
-    <title>#グラビア #おすすめのりたい </title>
-    <updated>2023-09-12T13:57:16+00:00</updated>
-    <content>#グラビア #おすすめのりたい </content>
-    <link href="https://tiktok.com/@ruruka820/video/7277938188600036610" rel="alternate"/>
-    <published>2023-09-12T13:57:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ruruka820/video/7279037451564338433</id>
     <title>トントンして ~ってコメントきてた #おすすめのりたい #無限トントン </title>
@@ -51,5 +43,13 @@
     <content>温泉一緒にいこ？👀💕</content>
     <link href="https://tiktok.com/@ruruka820/video/7281191872289066241" rel="alternate"/>
     <published>2023-09-21T08:23:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ruruka820/video/7286486912221629698</id>
+    <title>10/2発売の週プレに巻末グラビア6ページとインタビューが載ってます🙇🏻‍♀️💕 見てくれましたか？👀💕 #グラビア #撮影メイキング </title>
+    <updated>2023-10-05T14:50:43+00:00</updated>
+    <content>10/2発売の週プレに巻末グラビア6ページとインタビューが載ってます🙇🏻‍♀️💕 見てくれましたか？👀💕 #グラビア #撮影メイキング </content>
+    <link href="https://tiktok.com/@ruruka820/video/7286486912221629698" rel="alternate"/>
+    <published>2023-10-05T14:50:43+00:00</published>
   </entry>
 </feed>
