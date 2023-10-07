@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-10-01T14:40:54+00:00</updated>
+  <updated>2023-10-07T09:12:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7282419463968804097</id>
-    <title>昔、藤ヶ谷担のジャニオタやって今は猪狩蒼弥くんが推し‼️ #01 #fyp #おすすめ </title>
-    <updated>2023-09-24T15:46:57+00:00</updated>
-    <content>昔、藤ヶ谷担のジャニオタやって今は猪狩蒼弥くんが推し‼️ #01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7282419463968804097" rel="alternate"/>
-    <published>2023-09-24T15:46:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7283815065935940865</id>
     <title>初めてホスト行った時、高橋恭平くんに似てる人回ってきて惚れた‼️‼️#01 #fyp #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>Diorソバージュの香水つけてる男の子が1番いい匂いやしカッコよく見える‼️‼️#01 #fyp #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7285000042765733122" rel="alternate"/>
     <published>2023-10-01T14:40:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7287141963055353090</id>
+    <title>ジャニーズJrの人からDMきた‼️‼️          #01 #fyp #おすすめ </title>
+    <updated>2023-10-07T09:12:39+00:00</updated>
+    <content>ジャニーズJrの人からDMきた‼️‼️          #01 #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7287141963055353090" rel="alternate"/>
+    <published>2023-10-07T09:12:39+00:00</published>
   </entry>
 </feed>
