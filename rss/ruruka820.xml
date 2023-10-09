@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ruruka820</id>
   <title>ruruka820 TikTok</title>
-  <updated>2023-10-09T12:30:44+00:00</updated>
+  <updated>2023-10-09T23:20:54.029832+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ruruka820</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7279751451868499201</id>
-    <title>暑い時スカートパタパタするよね！？ #あるある #おすすめ </title>
-    <updated>2023-09-17T11:13:40+00:00</updated>
-    <content>暑い時スカートパタパタするよね！？ #あるある #おすすめ </content>
-    <link href="https://tiktok.com/@ruruka820/video/7279751451868499201" rel="alternate"/>
-    <published>2023-09-17T11:13:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7280505047790767362</id>
-    <title>この音源がすきって聞きました🤝🏻 #無限トントン #japanesegirl </title>
-    <updated>2023-09-19T11:58:00+00:00</updated>
-    <content>この音源がすきって聞きました🤝🏻 #無限トントン #japanesegirl </content>
-    <link href="https://tiktok.com/@ruruka820/video/7280505047790767362" rel="alternate"/>
-    <published>2023-09-19T11:58:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7281191872289066241</id>
-    <title>温泉一緒にいこ？👀💕</title>
-    <updated>2023-09-21T08:23:14+00:00</updated>
-    <content>温泉一緒にいこ？👀💕</content>
-    <link href="https://tiktok.com/@ruruka820/video/7281191872289066241" rel="alternate"/>
-    <published>2023-09-21T08:23:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7286981615065058561</id>
-    <title>見てみてください🥺💕 #グラビア #おすすめ #週プレ </title>
-    <updated>2023-10-06T22:50:36+00:00</updated>
-    <content>見てみてください🥺💕 #グラビア #おすすめ #週プレ </content>
-    <link href="https://tiktok.com/@ruruka820/video/7286981615065058561" rel="alternate"/>
-    <published>2023-10-06T22:50:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7287935175277776129</id>
-    <title>👼🏻💕</title>
-    <updated>2023-10-09T12:30:44+00:00</updated>
-    <content>👼🏻💕</content>
-    <link href="https://tiktok.com/@ruruka820/video/7287935175277776129" rel="alternate"/>
-    <published>2023-10-09T12:30:44+00:00</published>
-  </entry>
 </feed>
