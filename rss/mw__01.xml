@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-10-08T18:24:48+00:00</updated>
+  <updated>2023-10-10T09:36:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7284239650460388610</id>
-    <title>この服着て歩いてたらめっちゃ見られる🤣‼️#01 #fyp #おすすめ </title>
-    <updated>2023-09-29T13:30:11+00:00</updated>
-    <content>この服着て歩いてたらめっちゃ見られる🤣‼️#01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7284239650460388610" rel="alternate"/>
-    <published>2023-09-29T13:30:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7285000042765733122</id>
     <title>Diorソバージュの香水つけてる男の子が1番いい匂いやしカッコよく見える‼️‼️#01 #fyp #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>酔ったらキス魔になるけど、お酒強いからあんま酔わない🏩❕#01 #fyp #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7287655324910226690" rel="alternate"/>
     <published>2023-10-08T18:24:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7288261479256591617</id>
+    <title>飲みべ高い酒ヤクザの人大好きwwww       #01 #fyp #おすすめ </title>
+    <updated>2023-10-10T09:36:56+00:00</updated>
+    <content>飲みべ高い酒ヤクザの人大好きwwww       #01 #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7288261479256591617" rel="alternate"/>
+    <published>2023-10-10T09:36:56+00:00</published>
   </entry>
 </feed>
