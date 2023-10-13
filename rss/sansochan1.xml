@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-10-13T14:15:10+00:00</updated>
+  <updated>2023-10-13T14:43:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7287122207233428738</id>
-    <title>体育祭で腕にあざ出来た🥹</title>
-    <updated>2023-10-07T07:55:59+00:00</updated>
-    <content>体育祭で腕にあざ出来た🥹</content>
-    <link href="https://tiktok.com/@sansochan1/video/7287122207233428738" rel="alternate"/>
-    <published>2023-10-07T07:55:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7287172624080211202</id>
     <title>誰かユニバ一緒に行こ🎶</title>
@@ -45,11 +37,19 @@
     <published>2023-10-13T13:43:31+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sansochan1/video/7289446441053867266</id>
-    <title>ひまだよ！！！</title>
-    <updated>2023-10-13T14:15:10+00:00</updated>
-    <content>ひまだよ！！！</content>
-    <link href="https://tiktok.com/@sansochan1/video/7289446441053867266" rel="alternate"/>
-    <published>2023-10-13T14:15:10+00:00</published>
+    <id>https://tiktok.com/@sansochan1/video/7289452332700454146</id>
+    <title>カエルみたいな動き</title>
+    <updated>2023-10-13T14:38:03+00:00</updated>
+    <content>カエルみたいな動き</content>
+    <link href="https://tiktok.com/@sansochan1/video/7289452332700454146" rel="alternate"/>
+    <published>2023-10-13T14:38:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7289453789692579074</id>
+    <title>No Title</title>
+    <updated>2023-10-13T14:43:41+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7289453789692579074" rel="alternate"/>
+    <published>2023-10-13T14:43:41+00:00</published>
   </entry>
 </feed>
