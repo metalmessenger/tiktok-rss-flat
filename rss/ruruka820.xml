@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ruruka820</id>
   <title>ruruka820 TikTok</title>
-  <updated>2023-10-14T13:33:41+00:00</updated>
+  <updated>2023-10-16T12:57:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ruruka820</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7288329097443413250</id>
-    <title>下書き発見っ👀 #japanesegirl #おすすめのりたい </title>
-    <updated>2023-10-10T13:59:20+00:00</updated>
-    <content>下書き発見っ👀 #japanesegirl #おすすめのりたい </content>
-    <link href="https://tiktok.com/@ruruka820/video/7288329097443413250" rel="alternate"/>
-    <published>2023-10-10T13:59:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ruruka820/video/7288665506649771266</id>
     <title>撮影日っっ既視感ある衣装…..👀🌟笑</title>
@@ -51,5 +43,13 @@
     <content>誰よりも早くサンタ着た。笑 カレンダーの撮影したよ〜〜〜 #japanesegirl #グラビア </content>
     <link href="https://tiktok.com/@ruruka820/video/7289806828005821698" rel="alternate"/>
     <published>2023-10-14T13:33:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ruruka820/video/7290539603549850881</id>
+    <title>クリスマスぼっちやだな〜〜〜(5年目) #japanesegirl </title>
+    <updated>2023-10-16T12:57:14+00:00</updated>
+    <content>クリスマスぼっちやだな〜〜〜(5年目) #japanesegirl </content>
+    <link href="https://tiktok.com/@ruruka820/video/7290539603549850881" rel="alternate"/>
+    <published>2023-10-16T12:57:14+00:00</published>
   </entry>
 </feed>
