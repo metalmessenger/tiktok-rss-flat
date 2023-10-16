@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-10-12T16:25:15+00:00</updated>
+  <updated>2023-10-16T11:00:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7287655324910226690</id>
-    <title>酔ったらキス魔になるけど、お酒強いからあんま酔わない🏩❕#01 #fyp #おすすめ </title>
-    <updated>2023-10-08T18:24:48+00:00</updated>
-    <content>酔ったらキス魔になるけど、お酒強いからあんま酔わない🏩❕#01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7287655324910226690" rel="alternate"/>
-    <published>2023-10-08T18:24:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7288261479256591617</id>
     <title>飲みべ高い酒ヤクザの人大好きwwww       #01 #fyp #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>私のスカウトさん会う度にいつA○でる？って聞いてくるwwww #01 #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7289108857576606977" rel="alternate"/>
     <published>2023-10-12T16:25:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7290509415692700930</id>
+    <title>産婦人科何回行っても慣れへん🥲🥲         #01 #fyp #おすすめ </title>
+    <updated>2023-10-16T11:00:06+00:00</updated>
+    <content>産婦人科何回行っても慣れへん🥲🥲         #01 #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7290509415692700930" rel="alternate"/>
+    <published>2023-10-16T11:00:06+00:00</published>
   </entry>
 </feed>
