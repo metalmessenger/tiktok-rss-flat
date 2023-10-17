@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-10-17T09:16:03+00:00</updated>
+  <updated>2023-10-16T13:02:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,30 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7289434718985080065</id>
+    <title>部屋着</title>
+    <updated>2023-10-13T13:29:41+00:00</updated>
+    <content>部屋着</content>
+    <link href="https://tiktok.com/@sansochan1/video/7289434718985080065" rel="alternate"/>
+    <published>2023-10-13T13:29:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7289453789692579074</id>
+    <title>No Title</title>
+    <updated>2023-10-13T14:43:41+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7289453789692579074" rel="alternate"/>
+    <published>2023-10-13T14:43:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7289814472061914370</id>
+    <title>No Title</title>
+    <updated>2023-10-14T14:03:21+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7289814472061914370" rel="alternate"/>
+    <published>2023-10-14T14:03:21+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7289817399707127041</id>
     <title>期待した？</title>
@@ -27,29 +51,5 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@sansochan1/video/7290541024961629442" rel="alternate"/>
     <published>2023-10-16T13:02:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7290851055737359618</id>
-    <title>Ng</title>
-    <updated>2023-10-17T09:05:48+00:00</updated>
-    <content>Ng</content>
-    <link href="https://tiktok.com/@sansochan1/video/7290851055737359618" rel="alternate"/>
-    <published>2023-10-17T09:05:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7290852294378196225</id>
-    <title>ユニバ行きたい</title>
-    <updated>2023-10-17T09:10:38+00:00</updated>
-    <content>ユニバ行きたい</content>
-    <link href="https://tiktok.com/@sansochan1/video/7290852294378196225" rel="alternate"/>
-    <published>2023-10-17T09:10:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7290853687319186690</id>
-    <title>不機嫌さんそ</title>
-    <updated>2023-10-17T09:16:03+00:00</updated>
-    <content>不機嫌さんそ</content>
-    <link href="https://tiktok.com/@sansochan1/video/7290853687319186690" rel="alternate"/>
-    <published>2023-10-17T09:16:03+00:00</published>
   </entry>
 </feed>
