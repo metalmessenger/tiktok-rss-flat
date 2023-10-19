@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-10-16T13:02:45+00:00</updated>
+  <updated>2023-10-19T11:26:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -29,14 +29,6 @@
     <published>2023-10-13T14:43:41+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sansochan1/video/7289814472061914370</id>
-    <title>No Title</title>
-    <updated>2023-10-14T14:03:21+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7289814472061914370" rel="alternate"/>
-    <published>2023-10-14T14:03:21+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@sansochan1/video/7289817399707127041</id>
     <title>期待した？</title>
     <updated>2023-10-14T14:14:42+00:00</updated>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@sansochan1/video/7290541024961629442" rel="alternate"/>
     <published>2023-10-16T13:02:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7291629467930250497</id>
+    <title>今年も思い出いっぱい出来た🪽</title>
+    <updated>2023-10-19T11:26:30+00:00</updated>
+    <content>今年も思い出いっぱい出来た🪽</content>
+    <link href="https://tiktok.com/@sansochan1/video/7291629467930250497" rel="alternate"/>
+    <published>2023-10-19T11:26:30+00:00</published>
   </entry>
 </feed>
