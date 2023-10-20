@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-10-19T10:26:38+00:00</updated>
+  <updated>2023-10-20T10:05:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7288261479256591617</id>
-    <title>飲みべ高い酒ヤクザの人大好きwwww       #01 #fyp #おすすめ </title>
-    <updated>2023-10-10T09:36:56+00:00</updated>
-    <content>飲みべ高い酒ヤクザの人大好きwwww       #01 #fyp #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7288261479256591617" rel="alternate"/>
-    <published>2023-10-10T09:36:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7288996074163850498</id>
     <title>Marioーーーーー‼️‼️🍄🌟#01 #fyp </title>
@@ -51,5 +43,13 @@
     <content>#日常vlog #01 #fyp #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7291614058501934338" rel="alternate"/>
     <published>2023-10-19T10:26:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7291979744218746113</id>
+    <title>キャバ太郎さん仮面取ったらめっちゃイケメン✨✨#01 #fyp #おすすめ @キャバ太郎 </title>
+    <updated>2023-10-20T10:05:42+00:00</updated>
+    <content>キャバ太郎さん仮面取ったらめっちゃイケメン✨✨#01 #fyp #おすすめ @キャバ太郎 </content>
+    <link href="https://tiktok.com/@mw__01/video/7291979744218746113" rel="alternate"/>
+    <published>2023-10-20T10:05:42+00:00</published>
   </entry>
 </feed>
