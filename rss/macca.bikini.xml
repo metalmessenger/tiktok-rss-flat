@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@macca.bikini</id>
   <title>macca.bikini TikTok</title>
-  <updated>2023-10-18T08:02:59+00:00</updated>
+  <updated>2023-10-23T06:12:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from macca.bikini</subtitle>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7283417637260938497</id>
-    <title>No Title</title>
-    <updated>2023-09-27T08:20:21+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@macca.bikini/video/7283417637260938497" rel="alternate"/>
-    <published>2023-09-27T08:20:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@macca.bikini/video/7287267924727876865</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>よこてぃてぃ('&lt;_｀)⊃</content>
     <link href="https://tiktok.com/@macca.bikini/video/7291205949291941121" rel="alternate"/>
     <published>2023-10-18T08:02:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7293032841842117889</id>
+    <title>スク水女子💋❤️ここはどこでしょう❤️ #まっか #黒ギャル #まっかの日常 </title>
+    <updated>2023-10-23T06:12:16+00:00</updated>
+    <content>スク水女子💋❤️ここはどこでしょう❤️ #まっか #黒ギャル #まっかの日常 </content>
+    <link href="https://tiktok.com/@macca.bikini/video/7293032841842117889" rel="alternate"/>
+    <published>2023-10-23T06:12:16+00:00</published>
   </entry>
 </feed>
