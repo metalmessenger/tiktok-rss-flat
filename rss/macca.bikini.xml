@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@macca.bikini</id>
   <title>macca.bikini TikTok</title>
-  <updated>2023-10-24T13:00:30+00:00</updated>
+  <updated>2023-10-25T03:05:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from macca.bikini</subtitle>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7290491426666712321</id>
-    <title>YouTubeとファンクラブ撮影したよー❤️❤️スク水女子でございます🥸  #まっか #黒ギャル </title>
-    <updated>2023-10-16T09:50:18+00:00</updated>
-    <content>YouTubeとファンクラブ撮影したよー❤️❤️スク水女子でございます🥸  #まっか #黒ギャル </content>
-    <link href="https://tiktok.com/@macca.bikini/video/7290491426666712321" rel="alternate"/>
-    <published>2023-10-16T09:50:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@macca.bikini/video/7290839118278364417</id>
     <title>横は、絶対見ないで‼️😖</title>
@@ -51,5 +43,13 @@
     <content>天然です😚🤍</content>
     <link href="https://tiktok.com/@macca.bikini/video/7293509127760907521" rel="alternate"/>
     <published>2023-10-24T13:00:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7293726772003114242</id>
+    <title>揺れ地震😳</title>
+    <updated>2023-10-25T03:05:05+00:00</updated>
+    <content>揺れ地震😳</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7293726772003114242" rel="alternate"/>
+    <published>2023-10-25T03:05:05+00:00</published>
   </entry>
 </feed>
