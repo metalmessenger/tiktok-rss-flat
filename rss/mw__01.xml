@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-10-24T09:09:50+00:00</updated>
+  <updated>2023-10-22T12:55:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7288996074163850498</id>
+    <title>Marioーーーーー‼️‼️🍄🌟#01 #fyp </title>
+    <updated>2023-10-12T09:07:32+00:00</updated>
+    <content>Marioーーーーー‼️‼️🍄🌟#01 #fyp </content>
+    <link href="https://tiktok.com/@mw__01/video/7288996074163850498" rel="alternate"/>
+    <published>2023-10-12T09:07:32+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7289097344577047810</id>
     <title>私、この友達の彼氏からめっちゃ嫌われてるらしい🥲🥲🥲#01 #fyp #おすすめ </title>
@@ -43,13 +51,5 @@
     <content>烈さんってコメントめっちゃくるねんけど、誰なーん‼️‼️#01 #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7292765593193680130" rel="alternate"/>
     <published>2023-10-22T12:55:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7293449692535328001</id>
-    <title>「絶対めっちゃ遊んでるやろ」って偏見持たれる私のベッドルーム🤦🏻‍♀️🤦🏻‍♀️#01 #おすすめ </title>
-    <updated>2023-10-24T09:09:50+00:00</updated>
-    <content>「絶対めっちゃ遊んでるやろ」って偏見持たれる私のベッドルーム🤦🏻‍♀️🤦🏻‍♀️#01 #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7293449692535328001" rel="alternate"/>
-    <published>2023-10-24T09:09:50+00:00</published>
   </entry>
 </feed>
