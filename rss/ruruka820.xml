@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ruruka820</id>
   <title>ruruka820 TikTok</title>
-  <updated>2023-10-24T10:53:00+00:00</updated>
+  <updated>2023-10-25T10:27:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ruruka820</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7291965188851485953</id>
-    <title>がんばれがんばれ先輩ッッ #japanesegirl #ハロウィン </title>
-    <updated>2023-10-20T09:09:14+00:00</updated>
-    <content>がんばれがんばれ先輩ッッ #japanesegirl #ハロウィン </content>
-    <link href="https://tiktok.com/@ruruka820/video/7291965188851485953" rel="alternate"/>
-    <published>2023-10-20T09:09:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ruruka820/video/7292361672893746433</id>
     <title>耳長すぎるwwwwwwwwww #bunnygirl #japanesegirl </title>
@@ -51,5 +43,13 @@
     <content>お腹すいた〜！ </content>
     <link href="https://tiktok.com/@ruruka820/video/7293476275577048321" rel="alternate"/>
     <published>2023-10-24T10:53:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ruruka820/video/7293840795717602562</id>
+    <title>さつまいも🍠食べたい。 #おすすめ </title>
+    <updated>2023-10-25T10:27:32+00:00</updated>
+    <content>さつまいも🍠食べたい。 #おすすめ </content>
+    <link href="https://tiktok.com/@ruruka820/video/7293840795717602562" rel="alternate"/>
+    <published>2023-10-25T10:27:32+00:00</published>
   </entry>
 </feed>
