@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@macca.bikini</id>
   <title>macca.bikini TikTok</title>
-  <updated>2023-10-26T00:49:35+00:00</updated>
+  <updated>2023-10-26T13:07:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from macca.bikini</subtitle>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7293032841842117889</id>
-    <title>スク水女子💋❤️ここはどこでしょう❤️ #まっか #黒ギャル #まっかの日常 </title>
-    <updated>2023-10-23T06:12:16+00:00</updated>
-    <content>スク水女子💋❤️ここはどこでしょう❤️ #まっか #黒ギャル #まっかの日常 </content>
-    <link href="https://tiktok.com/@macca.bikini/video/7293032841842117889" rel="alternate"/>
-    <published>2023-10-23T06:12:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@macca.bikini/video/7293509127760907521</id>
-    <title>天然です😚🤍</title>
-    <updated>2023-10-24T13:00:30+00:00</updated>
-    <content>天然です😚🤍</content>
-    <link href="https://tiktok.com/@macca.bikini/video/7293509127760907521" rel="alternate"/>
-    <published>2023-10-24T13:00:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@macca.bikini/video/7293726772003114242</id>
     <title>揺れ地震😳</title>
@@ -51,5 +35,21 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@macca.bikini/video/7294062931011013890" rel="alternate"/>
     <published>2023-10-26T00:49:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7294253011541429506</id>
+    <title>我爱台湾 🇹🇼❤️</title>
+    <updated>2023-10-26T13:07:07+00:00</updated>
+    <content>我爱台湾 🇹🇼❤️</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7294253011541429506" rel="alternate"/>
+    <published>2023-10-26T13:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@macca.bikini/video/7294253089115180290</id>
+    <title>我爱台湾🥺❤️🇹🇼</title>
+    <updated>2023-10-26T13:07:26+00:00</updated>
+    <content>我爱台湾🥺❤️🇹🇼</content>
+    <link href="https://tiktok.com/@macca.bikini/video/7294253089115180290" rel="alternate"/>
+    <published>2023-10-26T13:07:26+00:00</published>
   </entry>
 </feed>
