@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ruruka820</id>
   <title>ruruka820 TikTok</title>
-  <updated>2023-10-26T06:26:12+00:00</updated>
+  <updated>2023-10-27T12:17:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ruruka820</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7292706860493262082</id>
-    <title>今日は何食べよう🍚 #japanesegirl  #バニーガール </title>
-    <updated>2023-10-22T09:07:17+00:00</updated>
-    <content>今日は何食べよう🍚 #japanesegirl  #バニーガール </content>
-    <link href="https://tiktok.com/@ruruka820/video/7292706860493262082" rel="alternate"/>
-    <published>2023-10-22T09:07:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ruruka820/video/7293111548573158657</id>
     <title>先輩〜〜〜👂🏻 #頑張れ頑張れ先輩 #おすすめ #japanesegirl </title>
@@ -51,5 +43,13 @@
     <content>グラビア撮影オフショット\( ¨̮ )/ #グラビア #おすすめ #japanesegirl </content>
     <link href="https://tiktok.com/@ruruka820/video/7294149691296468226" rel="alternate"/>
     <published>2023-10-26T06:26:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ruruka820/video/7294611316910640386</id>
+    <title>#おすすめ #ソフトボール女子 </title>
+    <updated>2023-10-27T12:17:32+00:00</updated>
+    <content>#おすすめ #ソフトボール女子 </content>
+    <link href="https://tiktok.com/@ruruka820/video/7294611316910640386" rel="alternate"/>
+    <published>2023-10-27T12:17:32+00:00</published>
   </entry>
 </feed>
