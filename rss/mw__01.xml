@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-10-27T10:55:42+00:00</updated>
+  <updated>2023-10-29T10:30:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7292765593193680130</id>
-    <title>烈さんってコメントめっちゃくるねんけど、誰なーん‼️‼️#01 #おすすめ </title>
-    <updated>2023-10-22T12:55:12+00:00</updated>
-    <content>烈さんってコメントめっちゃくるねんけど、誰なーん‼️‼️#01 #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7292765593193680130" rel="alternate"/>
-    <published>2023-10-22T12:55:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7293449692535328001</id>
     <title>「絶対めっちゃ遊んでるやろ」って偏見持たれる私のベッドルーム🤦🏻‍♀️🤦🏻‍♀️#01 #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>元カレが「動画見たけど、声も体も全然違うかった」って言うてた😮‍💨✌️#01 #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7294590225941105922" rel="alternate"/>
     <published>2023-10-27T10:55:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7295325899971398914</id>
+    <title>特技は寝技です😎🤓#01 #おすすめ </title>
+    <updated>2023-10-29T10:30:29+00:00</updated>
+    <content>特技は寝技です😎🤓#01 #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7295325899971398914" rel="alternate"/>
+    <published>2023-10-29T10:30:29+00:00</published>
   </entry>
 </feed>
