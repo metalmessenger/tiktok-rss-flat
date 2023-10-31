@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-10-30T10:25:29+00:00</updated>
+  <updated>2023-10-31T09:55:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7293830882262142209</id>
-    <title>Twitterみんな騒ぎすぎねーー😅😅　　　　　#01 #おすすめ </title>
-    <updated>2023-10-25T09:49:05+00:00</updated>
-    <content>Twitterみんな騒ぎすぎねーー😅😅　　　　　#01 #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7293830882262142209" rel="alternate"/>
-    <published>2023-10-25T09:49:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7294189360948317442</id>
     <title>烈さんが元カレじゃない限り、あの動画はニセモノです❕❕#01 #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>ホスト初回レビューの動画ばっかりオススメに流れてくる😫😩#01 #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7295695691970514177" rel="alternate"/>
     <published>2023-10-30T10:25:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7296059124117261569</id>
+    <title>難波で、烈さんやーー！！って声かけてくんのやめてください🙇❗️#01 #おすすめ </title>
+    <updated>2023-10-31T09:55:47+00:00</updated>
+    <content>難波で、烈さんやーー！！って声かけてくんのやめてください🙇❗️#01 #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7296059124117261569" rel="alternate"/>
+    <published>2023-10-31T09:55:47+00:00</published>
   </entry>
 </feed>
