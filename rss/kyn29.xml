@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kyn29</id>
   <title>kyn29 TikTok</title>
-  <updated>2023-11-03T04:36:50+00:00</updated>
+  <updated>2023-11-03T11:29:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kyn29</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kyn29/video/7276442150575901953</id>
-    <title>ぼんっきゅっぼんっ</title>
-    <updated>2023-09-08T13:11:54+00:00</updated>
-    <content>ぼんっきゅっぼんっ</content>
-    <link href="https://tiktok.com/@kyn29/video/7276442150575901953" rel="alternate"/>
-    <published>2023-09-08T13:11:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kyn29/video/7277167260521843969</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>晩御飯何しよ🍳</content>
     <link href="https://tiktok.com/@kyn29/video/7297090190043122946" rel="alternate"/>
     <published>2023-11-03T04:36:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kyn29/video/7297196634058902786</id>
+    <title>コメント返そっと</title>
+    <updated>2023-11-03T11:29:53+00:00</updated>
+    <content>コメント返そっと</content>
+    <link href="https://tiktok.com/@kyn29/video/7297196634058902786" rel="alternate"/>
+    <published>2023-11-03T11:29:53+00:00</published>
   </entry>
 </feed>
