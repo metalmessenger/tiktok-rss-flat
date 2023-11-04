@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-10-30T11:41:11+00:00</updated>
+  <updated>2023-11-04T11:47:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
   <entry>
-    <id>https://tiktok.com/@sansochan1/video/7290541024961629442</id>
+    <id>https://tiktok.com/@sansochan1/video/7297562452542246145</id>
+    <title>1週間前に髪の毛切ったんだよ）！</title>
+    <updated>2023-11-04T11:09:30+00:00</updated>
+    <content>1週間前に髪の毛切ったんだよ）！</content>
+    <link href="https://tiktok.com/@sansochan1/video/7297562452542246145" rel="alternate"/>
+    <published>2023-11-04T11:09:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7297563436639096065</id>
+    <title>かっぱになりました</title>
+    <updated>2023-11-04T11:13:18+00:00</updated>
+    <content>かっぱになりました</content>
+    <link href="https://tiktok.com/@sansochan1/video/7297563436639096065" rel="alternate"/>
+    <published>2023-11-04T11:13:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7297564146344709377</id>
+    <title>かっぱ</title>
+    <updated>2023-11-04T11:16:03+00:00</updated>
+    <content>かっぱ</content>
+    <link href="https://tiktok.com/@sansochan1/video/7297564146344709377" rel="alternate"/>
+    <published>2023-11-04T11:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7297566608225094913</id>
     <title>No Title</title>
-    <updated>2023-10-16T13:02:45+00:00</updated>
+    <updated>2023-11-04T11:25:38+00:00</updated>
     <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7290541024961629442" rel="alternate"/>
-    <published>2023-10-16T13:02:45+00:00</published>
+    <link href="https://tiktok.com/@sansochan1/video/7297566608225094913" rel="alternate"/>
+    <published>2023-11-04T11:25:38+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sansochan1/video/7291629467930250497</id>
-    <title>今年も思い出いっぱい出来た🪽</title>
-    <updated>2023-10-19T11:26:30+00:00</updated>
-    <content>今年も思い出いっぱい出来た🪽</content>
-    <link href="https://tiktok.com/@sansochan1/video/7291629467930250497" rel="alternate"/>
-    <published>2023-10-19T11:26:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7293521436206009601</id>
-    <title>No Title</title>
-    <updated>2023-10-24T13:48:14+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7293521436206009601" rel="alternate"/>
-    <published>2023-10-24T13:48:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7293522585273240833</id>
-    <title>No Title</title>
-    <updated>2023-10-24T13:52:44+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7293522585273240833" rel="alternate"/>
-    <published>2023-10-24T13:52:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7295715199732976897</id>
-    <title>がちユニバ行きたい</title>
-    <updated>2023-10-30T11:41:11+00:00</updated>
-    <content>がちユニバ行きたい</content>
-    <link href="https://tiktok.com/@sansochan1/video/7295715199732976897" rel="alternate"/>
-    <published>2023-10-30T11:41:11+00:00</published>
+    <id>https://tiktok.com/@sansochan1/video/7297572345516952834</id>
+    <title>これ一緒におどろ！！</title>
+    <updated>2023-11-04T11:47:51+00:00</updated>
+    <content>これ一緒におどろ！！</content>
+    <link href="https://tiktok.com/@sansochan1/video/7297572345516952834" rel="alternate"/>
+    <published>2023-11-04T11:47:51+00:00</published>
   </entry>
 </feed>
