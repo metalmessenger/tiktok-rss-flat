@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-11-07T08:20:57+00:00</updated>
+  <updated>2023-11-08T09:40:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7296471002228280578</id>
-    <title>『酔ったらなんでやりたくなるんかな？』って先輩と真剣に話してた😆😆#01 #おすすめ </title>
-    <updated>2023-11-01T12:34:04+00:00</updated>
-    <content>『酔ったらなんでやりたくなるんかな？』って先輩と真剣に話してた😆😆#01 #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7296471002228280578" rel="alternate"/>
-    <published>2023-11-01T12:34:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7297186464385780993</id>
     <title>上からみた私🫡🫡#01 #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>これは担当に撮影してもらってます😅🤣 #01 #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7298632278475869442" rel="alternate"/>
     <published>2023-11-07T08:20:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7299023735858760962</id>
+    <title>え、嘘でしょ高橋恭平さーん‼️‼️‼️‼️#01 #おすすめ </title>
+    <updated>2023-11-08T09:40:02+00:00</updated>
+    <content>え、嘘でしょ高橋恭平さーん‼️‼️‼️‼️#01 #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7299023735858760962" rel="alternate"/>
+    <published>2023-11-08T09:40:02+00:00</published>
   </entry>
 </feed>
