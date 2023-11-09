@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-11-09T09:19:20+00:00</updated>
+  <updated>2023-11-09T10:28:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7297544965486415105</id>
-    <title>カルバン女子ないわーって投稿にメンションするのやめてwww#01 #おすすめ </title>
-    <updated>2023-11-04T10:01:39+00:00</updated>
-    <content>カルバン女子ないわーって投稿にメンションするのやめてwww#01 #おすすめ </content>
-    <link href="https://tiktok.com/@mw__01/video/7297544965486415105" rel="alternate"/>
-    <published>2023-11-04T10:01:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7297925157006363905</id>
     <title>烈さん視点wwwww🤣🤣 #01 #おすすめ </title>
@@ -51,5 +43,13 @@
     <content>お客様に太もも噛まれてんけど、噛み返したった🤓🤓 #01 #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7299389494644444417" rel="alternate"/>
     <published>2023-11-09T09:19:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7299407260973878530</id>
+    <title>押し倒されてる画角🥵🥵#01 #おすすめ </title>
+    <updated>2023-11-09T10:28:15+00:00</updated>
+    <content>押し倒されてる画角🥵🥵#01 #おすすめ </content>
+    <link href="https://tiktok.com/@mw__01/video/7299407260973878530" rel="alternate"/>
+    <published>2023-11-09T10:28:15+00:00</published>
   </entry>
 </feed>
