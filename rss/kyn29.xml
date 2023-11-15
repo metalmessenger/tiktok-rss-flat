@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kyn29</id>
   <title>kyn29 TikTok</title>
-  <updated>2023-11-11T03:16:34+00:00</updated>
+  <updated>2023-11-15T12:42:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kyn29</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kyn29/video/7276442150575901953</id>
-    <title>ぼんっきゅっぼんっ</title>
-    <updated>2023-09-08T13:11:54+00:00</updated>
-    <content>ぼんっきゅっぼんっ</content>
-    <link href="https://tiktok.com/@kyn29/video/7276442150575901953" rel="alternate"/>
-    <published>2023-09-08T13:11:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kyn29/video/7277167260521843969</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>ほらっ</content>
     <link href="https://tiktok.com/@kyn29/video/7300038177811598593" rel="alternate"/>
     <published>2023-11-11T03:16:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kyn29/video/7301668328660159745</id>
+    <title>ハートの先には何があるでしょうっ</title>
+    <updated>2023-11-15T12:42:23+00:00</updated>
+    <content>ハートの先には何があるでしょうっ</content>
+    <link href="https://tiktok.com/@kyn29/video/7301668328660159745" rel="alternate"/>
+    <published>2023-11-15T12:42:23+00:00</published>
   </entry>
 </feed>
