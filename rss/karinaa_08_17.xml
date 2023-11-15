@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@karinaa_08_17</id>
   <title>karinaa_08_17 TikTok</title>
-  <updated>2023-11-03T08:02:16+00:00</updated>
+  <updated>2023-09-14T08:54:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from karinaa_08_17</subtitle>
+  <entry>
+    <id>https://tiktok.com/@karinaa_08_17/video/7229563680428510465</id>
+    <title>お久しぶりです。前垢の投稿です！ #08 #この時は中3 #インスタおいで </title>
+    <updated>2023-05-05T05:19:31+00:00</updated>
+    <content>お久しぶりです。前垢の投稿です！ #08 #この時は中3 #インスタおいで </content>
+    <link href="https://tiktok.com/@karinaa_08_17/video/7229563680428510465" rel="alternate"/>
+    <published>2023-05-05T05:19:31+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@karinaa_08_17/video/7229945601998277890</id>
     <title>違うversion！昨日の動画とどっちがいい？ #08 #この時は中3 #インスタおいで </title>
@@ -43,13 +51,5 @@
     <content>正直20万人のアカウント消えてからモチベーションないです#08 #インスタおいで </content>
     <link href="https://tiktok.com/@karinaa_08_17/video/7278602407020367122" rel="alternate"/>
     <published>2023-09-14T08:54:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@karinaa_08_17/video/7297143134193044743</id>
-    <title>HappyHalloween🎃 インスタ久々に更新したよ！ 08 #インスタおいで </title>
-    <updated>2023-11-03T08:02:16+00:00</updated>
-    <content>HappyHalloween🎃 インスタ久々に更新したよ！ 08 #インスタおいで </content>
-    <link href="https://tiktok.com/@karinaa_08_17/video/7297143134193044743" rel="alternate"/>
-    <published>2023-11-03T08:02:16+00:00</published>
   </entry>
 </feed>
