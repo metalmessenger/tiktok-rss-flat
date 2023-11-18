@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@ruruka820</id>
   <title>ruruka820 TikTok</title>
-  <updated>2023-11-16T08:51:10+00:00</updated>
+  <updated>2023-11-18T11:32:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ruruka820</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ruruka820/video/7298291014467423489</id>
-    <title>ワンピースやっとハンコック出てきた..!!✨(今更) #jkブランド #おすすめ </title>
-    <updated>2023-11-06T10:16:44+00:00</updated>
-    <content>ワンピースやっとハンコック出てきた..!!✨(今更) #jkブランド #おすすめ </content>
-    <link href="https://tiktok.com/@ruruka820/video/7298291014467423489" rel="alternate"/>
-    <published>2023-11-06T10:16:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ruruka820/video/7299002023054298369</id>
     <title>呼ばれた。 #おすすめ #japanesegirl </title>
@@ -51,5 +43,13 @@
     <content>メイドさん雇ってくれますか？♡ #japanesegirl #おすすめ </content>
     <link href="https://tiktok.com/@ruruka820/video/7301979833825758466" rel="alternate"/>
     <published>2023-11-16T08:51:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ruruka820/video/7302763563221896450</id>
+    <title>バレ…たいなぁ..// #おすすめ #japanesegirl </title>
+    <updated>2023-11-18T11:32:28+00:00</updated>
+    <content>バレ…たいなぁ..// #おすすめ #japanesegirl </content>
+    <link href="https://tiktok.com/@ruruka820/video/7302763563221896450" rel="alternate"/>
+    <published>2023-11-18T11:32:28+00:00</published>
   </entry>
 </feed>
