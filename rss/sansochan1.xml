@@ -13,6 +13,14 @@
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
   <entry>
+    <id>https://tiktok.com/@sansochan1/video/7300171839857331458</id>
+    <title>No Title</title>
+    <updated>2023-11-11T11:55:15+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7300171839857331458" rel="alternate"/>
+    <published>2023-11-11T11:55:15+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@sansochan1/video/7300177778564025602</id>
     <title>No Title</title>
     <updated>2023-11-11T12:18:16+00:00</updated>
@@ -35,14 +43,6 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@sansochan1/video/7300876107685907714" rel="alternate"/>
     <published>2023-11-13T09:28:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7303166737686580482</id>
-    <title>No Title</title>
-    <updated>2023-11-19T13:36:58+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7303166737686580482" rel="alternate"/>
-    <published>2023-11-19T13:36:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@sansochan1/video/7303167768608787713</id>
