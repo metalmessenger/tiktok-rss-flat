@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sansochan1</id>
   <title>sansochan1 TikTok</title>
-  <updated>2023-11-13T09:28:11+00:00</updated>
+  <updated>2023-11-20T11:20:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from sansochan1</subtitle>
   <entry>
-    <id>https://tiktok.com/@sansochan1/video/7295715199732976897</id>
-    <title>がちユニバ行きたい</title>
-    <updated>2023-10-30T11:41:11+00:00</updated>
-    <content>がちユニバ行きたい</content>
-    <link href="https://tiktok.com/@sansochan1/video/7295715199732976897" rel="alternate"/>
-    <published>2023-10-30T11:41:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7297562452542246145</id>
-    <title>1週間前に髪の毛切ったんだよ）！</title>
-    <updated>2023-11-04T11:09:30+00:00</updated>
-    <content>1週間前に髪の毛切ったんだよ）！</content>
-    <link href="https://tiktok.com/@sansochan1/video/7297562452542246145" rel="alternate"/>
-    <published>2023-11-04T11:09:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7300171839857331458</id>
-    <title>No Title</title>
-    <updated>2023-11-11T11:55:15+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7300171839857331458" rel="alternate"/>
-    <published>2023-11-11T11:55:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@sansochan1/video/7300177778564025602</id>
-    <title>No Title</title>
-    <updated>2023-11-11T12:18:16+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@sansochan1/video/7300177778564025602" rel="alternate"/>
-    <published>2023-11-11T12:18:16+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@sansochan1/video/7300876107685907714</id>
     <title>No Title</title>
     <updated>2023-11-13T09:28:11+00:00</updated>
     <content>No Description</content>
     <link href="https://tiktok.com/@sansochan1/video/7300876107685907714" rel="alternate"/>
     <published>2023-11-13T09:28:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7303492503041264898</id>
+    <title>No Title</title>
+    <updated>2023-11-20T10:41:07+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@sansochan1/video/7303492503041264898" rel="alternate"/>
+    <published>2023-11-20T10:41:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7303495772761345282</id>
+    <title>これカップルで踊ってる人羨ましい🙄😮‍💨</title>
+    <updated>2023-11-20T10:53:49+00:00</updated>
+    <content>これカップルで踊ってる人羨ましい🙄😮‍💨</content>
+    <link href="https://tiktok.com/@sansochan1/video/7303495772761345282" rel="alternate"/>
+    <published>2023-11-20T10:53:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7303498254229064962</id>
+    <title>777</title>
+    <updated>2023-11-20T11:03:25+00:00</updated>
+    <content>777</content>
+    <link href="https://tiktok.com/@sansochan1/video/7303498254229064962" rel="alternate"/>
+    <published>2023-11-20T11:03:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sansochan1/video/7303502565117873410</id>
+    <title>最近寒すぎるよ</title>
+    <updated>2023-11-20T11:20:10+00:00</updated>
+    <content>最近寒すぎるよ</content>
+    <link href="https://tiktok.com/@sansochan1/video/7303502565117873410" rel="alternate"/>
+    <published>2023-11-20T11:20:10+00:00</published>
   </entry>
 </feed>
