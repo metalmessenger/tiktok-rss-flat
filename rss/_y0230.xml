@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@_y0230</id>
   <title>_y0230 TikTok</title>
-  <updated>2023-10-16T16:30:17.876694+00:00</updated>
+  <updated>2023-11-18T13:49:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from _y0230</subtitle>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7293886328658316552</id>
+    <title>OMG #fypシ #fyp #おすすめ </title>
+    <updated>2023-10-25T13:24:12+00:00</updated>
+    <content>OMG #fypシ #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7293886328658316552" rel="alternate"/>
+    <published>2023-10-25T13:24:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7295006181637049618</id>
+    <title>What r u doing?#fyp #fyp #おすすめ </title>
+    <updated>2023-10-28T13:49:47+00:00</updated>
+    <content>What r u doing?#fyp #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7295006181637049618" rel="alternate"/>
+    <published>2023-10-28T13:49:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7298669985507970312</id>
+    <title>That’s iffy🤣#fyp #fypシ #おすすめ </title>
+    <updated>2023-11-07T10:47:13+00:00</updated>
+    <content>That’s iffy🤣#fyp #fypシ #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7298669985507970312" rel="alternate"/>
+    <published>2023-11-07T10:47:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7301668156949548295</id>
+    <title>It's giving lmao #fypシ #fyp #おすすめ </title>
+    <updated>2023-11-15T12:41:40+00:00</updated>
+    <content>It's giving lmao #fypシ #fyp #おすすめ </content>
+    <link href="https://tiktok.com/@_y0230/video/7301668156949548295" rel="alternate"/>
+    <published>2023-11-15T12:41:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@_y0230/video/7302798917157129480</id>
+    <title>Im monster?LOL #fyp #fypシ #おすすめ #Florida</title>
+    <updated>2023-11-18T13:49:36+00:00</updated>
+    <content>Im monster?LOL #fyp #fypシ #おすすめ #Florida</content>
+    <link href="https://tiktok.com/@_y0230/video/7302798917157129480" rel="alternate"/>
+    <published>2023-11-18T13:49:36+00:00</published>
+  </entry>
 </feed>
