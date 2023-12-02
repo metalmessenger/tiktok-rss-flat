@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mw__01</id>
   <title>mw__01 TikTok</title>
-  <updated>2023-11-30T11:20:38+00:00</updated>
+  <updated>2023-12-02T11:06:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://metalmessenger.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mw__01</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mw__01/video/7303100185490541825</id>
-    <title>まだキャバ嬢に偏見ある人おんのwwww #01 #おすすめ #fyp </title>
-    <updated>2023-11-19T09:18:43+00:00</updated>
-    <content>まだキャバ嬢に偏見ある人おんのwwww #01 #おすすめ #fyp </content>
-    <link href="https://tiktok.com/@mw__01/video/7303100185490541825" rel="alternate"/>
-    <published>2023-11-19T09:18:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mw__01/video/7303485664803278081</id>
     <title>デジタルタトゥー女とか言われたつらい❕❕#01 #おすすめ #fyp </title>
@@ -51,5 +43,13 @@
     <content>セカンドパートナー賛成派‼️‼️                 #01 #おすすめ </content>
     <link href="https://tiktok.com/@mw__01/video/7307213543949012226" rel="alternate"/>
     <published>2023-11-30T11:20:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mw__01/video/7307952170245180673</id>
+    <title>元カレのストリートスナップ回ってきた💢💢#01 #おすすめ #fyp </title>
+    <updated>2023-12-02T11:06:54+00:00</updated>
+    <content>元カレのストリートスナップ回ってきた💢💢#01 #おすすめ #fyp </content>
+    <link href="https://tiktok.com/@mw__01/video/7307952170245180673" rel="alternate"/>
+    <published>2023-12-02T11:06:54+00:00</published>
   </entry>
 </feed>
