@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@sofiarodriiguez4</id>
   <title>sofiarodriiguez4 TikTok</title>
-  <updated>2023-12-01T14:52:18+00:00</updated>
+  <updated>2023-12-02T14:41:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -43,5 +43,13 @@
     <content>Que tal me quedan? 🥰</content>
     <link href="https://tiktok.com/@sofiarodriiguez4/video/7307639189011516677" rel="alternate"/>
     <published>2023-12-01T14:52:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@sofiarodriiguez4/video/7308007515332168965</id>
+    <title>#foryou #fy #fyp #fypシ </title>
+    <updated>2023-12-02T14:41:37+00:00</updated>
+    <content>#foryou #fy #fyp #fypシ </content>
+    <link href="https://tiktok.com/@sofiarodriiguez4/video/7308007515332168965" rel="alternate"/>
+    <published>2023-12-02T14:41:37+00:00</published>
   </entry>
 </feed>
